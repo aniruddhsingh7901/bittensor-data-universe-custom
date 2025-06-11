@@ -1,0 +1,317 @@
+2025-06-12T01:41:55: [34m2025-06-12 01:41:55.526[39m | [1m[37m      INFO      [39m[49m[0m | bittensor:loggingmachine.py:422 | Debug enabled.
+2025-06-12T01:41:56: [34m2025-06-12 01:41:56.504[39m | [1m[37m      INFO      [39m[49m[0m | bittensor:loggingmachine.py:387 | Enabling trace.
+2025-06-12T01:41:56: [34m2025-06-12 01:41:56.504[39m | [1m[37m      INFO      [39m[49m[0m | bittensor:loggingmachine.py:394 | Trace enabled.
+2025-06-12T01:41:57: [34m2025-06-12 01:41:57.086[39m | [1m[37m      INFO      [39m[49m[0m | bittensor:loggingmachine.py:373 | Enabling info logging.
+2025-06-12T01:41:57: [34m2025-06-12 01:41:57.086[39m | [1m[37m      INFO      [39m[49m[0m | bittensor:loggingmachine.py:382 | Info enabled.
+2025-06-12T01:41:57: [34m2025-06-12 01:41:57.087[39m | [1m[37m      INFO      [39m[49m[0m | bittensor:loggingmachine.py:409 | Enabling debug.
+2025-06-12T01:41:57: [34m2025-06-12 01:41:57.088[39m | [1m[37m      INFO      [39m[49m[0m | bittensor:loggingmachine.py:422 | Debug enabled.
+2025-06-12T01:41:57: [34m2025-06-12 01:41:57.099[39m | [1m[37m      INFO      [39m[49m[0m | bittensor:loggingmachine.py:409 | Enabling debug.
+2025-06-12T01:41:57: [34m2025-06-12 01:41:57.100[39m | [1m[37m      INFO      [39m[49m[0m | bittensor:loggingmachine.py:422 | Debug enabled.
+2025-06-12T01:41:57: [34m2025-06-12 01:41:57.106[39m | [1m[37m      INFO      [39m[49m[0m | bittensor:miner.py:67 | wallet:
+2025-06-12T01:41:57:   name: default
+2025-06-12T01:41:57:   hotkey: default
+2025-06-12T01:41:57:   path: ~/.bittensor/wallets/
+2025-06-12T01:41:57: subtensor:
+2025-06-12T01:41:57:   network: test
+2025-06-12T01:41:57:   chain_endpoint: wss://entrypoint-finney.opentensor.ai:443
+2025-06-12T01:41:57:   _mock: false
+2025-06-12T01:41:57: logging:
+2025-06-12T01:41:57:   debug: true
+2025-06-12T01:41:57:   trace: false
+2025-06-12T01:41:57:   info: false
+2025-06-12T01:41:57:   record_log: false
+2025-06-12T01:41:57:   logging_dir: ~/.bittensor/miners
+2025-06-12T01:41:57: axon:
+2025-06-12T01:41:57:   port: 8091
+2025-06-12T01:41:57:   ip: '[::]'
+2025-06-12T01:41:57:   external_port: null
+2025-06-12T01:41:57:   external_ip: null
+2025-06-12T01:41:57:   max_workers: 10
+2025-06-12T01:41:57: netuid: 13
+2025-06-12T01:41:57: neuron:
+2025-06-12T01:41:57:   epoch_length: 100
+2025-06-12T01:41:57:   events_retention_size: 2 GB
+2025-06-12T01:41:57:   dont_save_events: false
+2025-06-12T01:41:57:   database_name: SqliteMinerStorage.sqlite
+2025-06-12T01:41:57:   max_database_size_gb_hint: 250
+2025-06-12T01:41:57:   scraping_config_file: /home/anirudh/data-universe/scraping/config/scraping_config.json
+2025-06-12T01:41:57:   full_path: /home/anirudh/.bittensor/miners/default/default/netuid13/None
+2025-06-12T01:41:57: vpermit_rao_limit: 10000
+2025-06-12T01:41:57: s3_auth_url: https://sn13-data.api.macrocosmos.ai
+2025-06-12T01:41:57: huggingface: false
+2025-06-12T01:41:57: gravity: false
+2025-06-12T01:41:57: encoding_key_json_file: /home/anirudh/data-universe/huggingface_utils/encoding_key.json
+2025-06-12T01:41:57: private_encoding_key_json_file: /home/anirudh/data-universe/huggingface_utils/private_encoding_key.json
+2025-06-12T01:41:57: miner_upload_state_file: /home/anirudh/data-universe/huggingface_utils/state_file.json
+2025-06-12T01:41:57: offline: false
+2025-06-12T01:41:57: config: false
+2025-06-12T01:41:57: strict: false
+2025-06-12T01:41:57: no_version_checking: false
+2025-06-12T01:41:57: [34m2025-06-12 01:41:57.106[39m | [1m[37m      INFO      [39m[49m[0m | bittensor:miner.py:80 | Wallet: Wallet (Name: 'default', Hotkey: 'default', Path: '~/.bittensor/wallets/').
+2025-06-12T01:41:57: [34m2025-06-12 01:41:57.106[39m | [1m[34m     DEBUG      [39m[49m[0m | bittensor:subtensor.py:130 | Connecting to network: [34mtest[0m, chain_endpoint: [34mwss://test.finney.opentensor.ai:443[0m> ...
+2025-06-12T01:42:00: [34m2025-06-12 01:42:00.773[39m | [1m[37m      INFO      [39m[49m[0m | bittensor:miner.py:84 | Subtensor: Network: test, Chain: wss://test.finney.opentensor.ai:443.
+2025-06-12T01:42:02: [34m2025-06-12 01:42:02.777[39m | [1m[37m      INFO      [39m[49m[0m | bittensor:miner.py:88 | Metagraph: metagraph(netuid:13, n:96, block:4734530, network:test).
+2025-06-12T01:42:04: [34m2025-06-12 01:42:04.024[39m | [1m[37m      INFO      [39m[49m[0m | bittensor:loggingmachine.py:422 | Debug enabled.
+2025-06-12T01:42:04: [34m2025-06-12 01:42:04.918[39m | [1m[37m      INFO      [39m[49m[0m | bittensor:loggingmachine.py:387 | Enabling trace.
+2025-06-12T01:42:04: [34m2025-06-12 01:42:04.918[39m | [1m[37m      INFO      [39m[49m[0m | bittensor:loggingmachine.py:394 | Trace enabled.
+2025-06-12T01:42:05: [34m2025-06-12 01:42:05.392[39m | [1m[37m      INFO      [39m[49m[0m | bittensor:loggingmachine.py:373 | Enabling info logging.
+2025-06-12T01:42:05: [34m2025-06-12 01:42:05.392[39m | [1m[37m      INFO      [39m[49m[0m | bittensor:loggingmachine.py:382 | Info enabled.
+2025-06-12T01:42:05: [34m2025-06-12 01:42:05.393[39m | [1m[37m      INFO      [39m[49m[0m | bittensor:loggingmachine.py:409 | Enabling debug.
+2025-06-12T01:42:05: [34m2025-06-12 01:42:05.394[39m | [1m[37m      INFO      [39m[49m[0m | bittensor:loggingmachine.py:422 | Debug enabled.
+2025-06-12T01:42:05: [34m2025-06-12 01:42:05.404[39m | [1m[37m      INFO      [39m[49m[0m | bittensor:loggingmachine.py:409 | Enabling debug.
+2025-06-12T01:42:05: [34m2025-06-12 01:42:05.405[39m | [1m[37m      INFO      [39m[49m[0m | bittensor:loggingmachine.py:422 | Debug enabled.
+2025-06-12T01:42:05: [34m2025-06-12 01:42:05.410[39m | [1m[37m      INFO      [39m[49m[0m | bittensor:miner.py:67 | wallet:
+2025-06-12T01:42:05:   name: default
+2025-06-12T01:42:05:   hotkey: default
+2025-06-12T01:42:05:   path: ~/.bittensor/wallets/
+2025-06-12T01:42:05: subtensor:
+2025-06-12T01:42:05:   network: test
+2025-06-12T01:42:05:   chain_endpoint: wss://entrypoint-finney.opentensor.ai:443
+2025-06-12T01:42:05:   _mock: false
+2025-06-12T01:42:05: logging:
+2025-06-12T01:42:05:   debug: true
+2025-06-12T01:42:05:   trace: false
+2025-06-12T01:42:05:   info: false
+2025-06-12T01:42:05:   record_log: false
+2025-06-12T01:42:05:   logging_dir: ~/.bittensor/miners
+2025-06-12T01:42:05: axon:
+2025-06-12T01:42:05:   port: 8091
+2025-06-12T01:42:05:   ip: '[::]'
+2025-06-12T01:42:05:   external_port: null
+2025-06-12T01:42:05:   external_ip: null
+2025-06-12T01:42:05:   max_workers: 10
+2025-06-12T01:42:05: netuid: 13
+2025-06-12T01:42:05: neuron:
+2025-06-12T01:42:05:   epoch_length: 100
+2025-06-12T01:42:05:   events_retention_size: 2 GB
+2025-06-12T01:42:05:   dont_save_events: false
+2025-06-12T01:42:05:   database_name: SqliteMinerStorage.sqlite
+2025-06-12T01:42:05:   max_database_size_gb_hint: 250
+2025-06-12T01:42:05:   scraping_config_file: /home/anirudh/data-universe/scraping/config/scraping_config.json
+2025-06-12T01:42:05:   full_path: /home/anirudh/.bittensor/miners/default/default/netuid13/None
+2025-06-12T01:42:05: vpermit_rao_limit: 10000
+2025-06-12T01:42:05: s3_auth_url: https://sn13-data.api.macrocosmos.ai
+2025-06-12T01:42:05: huggingface: false
+2025-06-12T01:42:05: gravity: false
+2025-06-12T01:42:05: encoding_key_json_file: /home/anirudh/data-universe/huggingface_utils/encoding_key.json
+2025-06-12T01:42:05: private_encoding_key_json_file: /home/anirudh/data-universe/huggingface_utils/private_encoding_key.json
+2025-06-12T01:42:05: miner_upload_state_file: /home/anirudh/data-universe/huggingface_utils/state_file.json
+2025-06-12T01:42:05: offline: false
+2025-06-12T01:42:05: config: false
+2025-06-12T01:42:05: strict: false
+2025-06-12T01:42:05: no_version_checking: false
+2025-06-12T01:42:05: [34m2025-06-12 01:42:05.410[39m | [1m[37m      INFO      [39m[49m[0m | bittensor:miner.py:80 | Wallet: Wallet (Name: 'default', Hotkey: 'default', Path: '~/.bittensor/wallets/').
+2025-06-12T01:42:05: [34m2025-06-12 01:42:05.410[39m | [1m[34m     DEBUG      [39m[49m[0m | bittensor:subtensor.py:130 | Connecting to network: [34mtest[0m, chain_endpoint: [34mwss://test.finney.opentensor.ai:443[0m> ...
+2025-06-12T01:42:08: [34m2025-06-12 01:42:08.874[39m | [1m[37m      INFO      [39m[49m[0m | bittensor:miner.py:84 | Subtensor: Network: test, Chain: wss://test.finney.opentensor.ai:443.
+2025-06-12T01:42:10: [34m2025-06-12 01:42:10.645[39m | [1m[37m      INFO      [39m[49m[0m | bittensor:miner.py:88 | Metagraph: metagraph(netuid:13, n:96, block:4734530, network:test).
+2025-06-12T01:42:11: [34m2025-06-12 01:42:11.936[39m | [1m[37m      INFO      [39m[49m[0m | bittensor:loggingmachine.py:422 | Debug enabled.
+2025-06-12T01:42:12: [34m2025-06-12 01:42:12.864[39m | [1m[37m      INFO      [39m[49m[0m | bittensor:loggingmachine.py:387 | Enabling trace.
+2025-06-12T01:42:12: [34m2025-06-12 01:42:12.864[39m | [1m[37m      INFO      [39m[49m[0m | bittensor:loggingmachine.py:394 | Trace enabled.
+2025-06-12T01:42:13: [34m2025-06-12 01:42:13.360[39m | [1m[37m      INFO      [39m[49m[0m | bittensor:loggingmachine.py:373 | Enabling info logging.
+2025-06-12T01:42:13: [34m2025-06-12 01:42:13.360[39m | [1m[37m      INFO      [39m[49m[0m | bittensor:loggingmachine.py:382 | Info enabled.
+2025-06-12T01:42:13: [34m2025-06-12 01:42:13.361[39m | [1m[37m      INFO      [39m[49m[0m | bittensor:loggingmachine.py:409 | Enabling debug.
+2025-06-12T01:42:13: [34m2025-06-12 01:42:13.362[39m | [1m[37m      INFO      [39m[49m[0m | bittensor:loggingmachine.py:422 | Debug enabled.
+2025-06-12T01:42:13: [34m2025-06-12 01:42:13.372[39m | [1m[37m      INFO      [39m[49m[0m | bittensor:loggingmachine.py:409 | Enabling debug.
+2025-06-12T01:42:13: [34m2025-06-12 01:42:13.373[39m | [1m[37m      INFO      [39m[49m[0m | bittensor:loggingmachine.py:422 | Debug enabled.
+2025-06-12T01:42:13: [34m2025-06-12 01:42:13.378[39m | [1m[37m      INFO      [39m[49m[0m | bittensor:miner.py:67 | wallet:
+2025-06-12T01:42:13:   name: default
+2025-06-12T01:42:13:   hotkey: default
+2025-06-12T01:42:13:   path: ~/.bittensor/wallets/
+2025-06-12T01:42:13: subtensor:
+2025-06-12T01:42:13:   network: test
+2025-06-12T01:42:13:   chain_endpoint: wss://entrypoint-finney.opentensor.ai:443
+2025-06-12T01:42:13:   _mock: false
+2025-06-12T01:42:13: logging:
+2025-06-12T01:42:13:   debug: true
+2025-06-12T01:42:13:   trace: false
+2025-06-12T01:42:13:   info: false
+2025-06-12T01:42:13:   record_log: false
+2025-06-12T01:42:13:   logging_dir: ~/.bittensor/miners
+2025-06-12T01:42:13: axon:
+2025-06-12T01:42:13:   port: 8091
+2025-06-12T01:42:13:   ip: '[::]'
+2025-06-12T01:42:13:   external_port: null
+2025-06-12T01:42:13:   external_ip: null
+2025-06-12T01:42:13:   max_workers: 10
+2025-06-12T01:42:13: netuid: 13
+2025-06-12T01:42:13: neuron:
+2025-06-12T01:42:13:   epoch_length: 100
+2025-06-12T01:42:13:   events_retention_size: 2 GB
+2025-06-12T01:42:13:   dont_save_events: false
+2025-06-12T01:42:13:   database_name: SqliteMinerStorage.sqlite
+2025-06-12T01:42:13:   max_database_size_gb_hint: 250
+2025-06-12T01:42:13:   scraping_config_file: /home/anirudh/data-universe/scraping/config/scraping_config.json
+2025-06-12T01:42:13:   full_path: /home/anirudh/.bittensor/miners/default/default/netuid13/None
+2025-06-12T01:42:13: vpermit_rao_limit: 10000
+2025-06-12T01:42:13: s3_auth_url: https://sn13-data.api.macrocosmos.ai
+2025-06-12T01:42:13: huggingface: false
+2025-06-12T01:42:13: gravity: false
+2025-06-12T01:42:13: encoding_key_json_file: /home/anirudh/data-universe/huggingface_utils/encoding_key.json
+2025-06-12T01:42:13: private_encoding_key_json_file: /home/anirudh/data-universe/huggingface_utils/private_encoding_key.json
+2025-06-12T01:42:13: miner_upload_state_file: /home/anirudh/data-universe/huggingface_utils/state_file.json
+2025-06-12T01:42:13: offline: false
+2025-06-12T01:42:13: config: false
+2025-06-12T01:42:13: strict: false
+2025-06-12T01:42:13: no_version_checking: false
+2025-06-12T01:42:13: [34m2025-06-12 01:42:13.378[39m | [1m[37m      INFO      [39m[49m[0m | bittensor:miner.py:80 | Wallet: Wallet (Name: 'default', Hotkey: 'default', Path: '~/.bittensor/wallets/').
+2025-06-12T01:42:13: [34m2025-06-12 01:42:13.378[39m | [1m[34m     DEBUG      [39m[49m[0m | bittensor:subtensor.py:130 | Connecting to network: [34mtest[0m, chain_endpoint: [34mwss://test.finney.opentensor.ai:443[0m> ...
+2025-06-12T01:42:16: [34m2025-06-12 01:42:16.897[39m | [1m[37m      INFO      [39m[49m[0m | bittensor:miner.py:84 | Subtensor: Network: test, Chain: wss://test.finney.opentensor.ai:443.
+2025-06-12T01:42:18: [34m2025-06-12 01:42:18.529[39m | [1m[37m      INFO      [39m[49m[0m | bittensor:miner.py:88 | Metagraph: metagraph(netuid:13, n:96, block:4734531, network:test).
+2025-06-12T01:42:19: [34m2025-06-12 01:42:19.696[39m | [1m[37m      INFO      [39m[49m[0m | bittensor:loggingmachine.py:422 | Debug enabled.
+2025-06-12T01:42:20: [34m2025-06-12 01:42:20.633[39m | [1m[37m      INFO      [39m[49m[0m | bittensor:loggingmachine.py:387 | Enabling trace.
+2025-06-12T01:42:20: [34m2025-06-12 01:42:20.633[39m | [1m[37m      INFO      [39m[49m[0m | bittensor:loggingmachine.py:394 | Trace enabled.
+2025-06-12T01:42:21: [34m2025-06-12 01:42:21.076[39m | [1m[37m      INFO      [39m[49m[0m | bittensor:loggingmachine.py:373 | Enabling info logging.
+2025-06-12T01:42:21: [34m2025-06-12 01:42:21.077[39m | [1m[37m      INFO      [39m[49m[0m | bittensor:loggingmachine.py:382 | Info enabled.
+2025-06-12T01:42:21: [34m2025-06-12 01:42:21.078[39m | [1m[37m      INFO      [39m[49m[0m | bittensor:loggingmachine.py:409 | Enabling debug.
+2025-06-12T01:42:21: [34m2025-06-12 01:42:21.078[39m | [1m[37m      INFO      [39m[49m[0m | bittensor:loggingmachine.py:422 | Debug enabled.
+2025-06-12T01:42:21: [34m2025-06-12 01:42:21.088[39m | [1m[37m      INFO      [39m[49m[0m | bittensor:loggingmachine.py:409 | Enabling debug.
+2025-06-12T01:42:21: [34m2025-06-12 01:42:21.089[39m | [1m[37m      INFO      [39m[49m[0m | bittensor:loggingmachine.py:422 | Debug enabled.
+2025-06-12T01:42:21: [34m2025-06-12 01:42:21.094[39m | [1m[37m      INFO      [39m[49m[0m | bittensor:miner.py:67 | wallet:
+2025-06-12T01:42:21:   name: default
+2025-06-12T01:42:21:   hotkey: default
+2025-06-12T01:42:21:   path: ~/.bittensor/wallets/
+2025-06-12T01:42:21: subtensor:
+2025-06-12T01:42:21:   network: test
+2025-06-12T01:42:21:   chain_endpoint: wss://entrypoint-finney.opentensor.ai:443
+2025-06-12T01:42:21:   _mock: false
+2025-06-12T01:42:21: logging:
+2025-06-12T01:42:21:   debug: true
+2025-06-12T01:42:21:   trace: false
+2025-06-12T01:42:21:   info: false
+2025-06-12T01:42:21:   record_log: false
+2025-06-12T01:42:21:   logging_dir: ~/.bittensor/miners
+2025-06-12T01:42:21: axon:
+2025-06-12T01:42:21:   port: 8091
+2025-06-12T01:42:21:   ip: '[::]'
+2025-06-12T01:42:21:   external_port: null
+2025-06-12T01:42:21:   external_ip: null
+2025-06-12T01:42:21:   max_workers: 10
+2025-06-12T01:42:21: netuid: 13
+2025-06-12T01:42:21: neuron:
+2025-06-12T01:42:21:   epoch_length: 100
+2025-06-12T01:42:21:   events_retention_size: 2 GB
+2025-06-12T01:42:21:   dont_save_events: false
+2025-06-12T01:42:21:   database_name: SqliteMinerStorage.sqlite
+2025-06-12T01:42:21:   max_database_size_gb_hint: 250
+2025-06-12T01:42:21:   scraping_config_file: /home/anirudh/data-universe/scraping/config/scraping_config.json
+2025-06-12T01:42:21:   full_path: /home/anirudh/.bittensor/miners/default/default/netuid13/None
+2025-06-12T01:42:21: vpermit_rao_limit: 10000
+2025-06-12T01:42:21: s3_auth_url: https://sn13-data.api.macrocosmos.ai
+2025-06-12T01:42:21: huggingface: false
+2025-06-12T01:42:21: gravity: false
+2025-06-12T01:42:21: encoding_key_json_file: /home/anirudh/data-universe/huggingface_utils/encoding_key.json
+2025-06-12T01:42:21: private_encoding_key_json_file: /home/anirudh/data-universe/huggingface_utils/private_encoding_key.json
+2025-06-12T01:42:21: miner_upload_state_file: /home/anirudh/data-universe/huggingface_utils/state_file.json
+2025-06-12T01:42:21: offline: false
+2025-06-12T01:42:21: config: false
+2025-06-12T01:42:21: strict: false
+2025-06-12T01:42:21: no_version_checking: false
+2025-06-12T01:42:21: [34m2025-06-12 01:42:21.094[39m | [1m[37m      INFO      [39m[49m[0m | bittensor:miner.py:80 | Wallet: Wallet (Name: 'default', Hotkey: 'default', Path: '~/.bittensor/wallets/').
+2025-06-12T01:42:21: [34m2025-06-12 01:42:21.094[39m | [1m[34m     DEBUG      [39m[49m[0m | bittensor:subtensor.py:130 | Connecting to network: [34mtest[0m, chain_endpoint: [34mwss://test.finney.opentensor.ai:443[0m> ...
+2025-06-12T01:42:24: [34m2025-06-12 01:42:24.750[39m | [1m[37m      INFO      [39m[49m[0m | bittensor:miner.py:84 | Subtensor: Network: test, Chain: wss://test.finney.opentensor.ai:443.
+2025-06-12T01:42:26: [34m2025-06-12 01:42:26.744[39m | [1m[37m      INFO      [39m[49m[0m | bittensor:miner.py:88 | Metagraph: metagraph(netuid:13, n:96, block:4734532, network:test).
+2025-06-12T01:42:28: [34m2025-06-12 01:42:28.037[39m | [1m[37m      INFO      [39m[49m[0m | bittensor:loggingmachine.py:422 | Debug enabled.
+2025-06-12T01:42:29: [34m2025-06-12 01:42:29.002[39m | [1m[37m      INFO      [39m[49m[0m | bittensor:loggingmachine.py:387 | Enabling trace.
+2025-06-12T01:42:29: [34m2025-06-12 01:42:29.003[39m | [1m[37m      INFO      [39m[49m[0m | bittensor:loggingmachine.py:394 | Trace enabled.
+2025-06-12T01:42:29: [34m2025-06-12 01:42:29.506[39m | [1m[37m      INFO      [39m[49m[0m | bittensor:loggingmachine.py:373 | Enabling info logging.
+2025-06-12T01:42:29: [34m2025-06-12 01:42:29.507[39m | [1m[37m      INFO      [39m[49m[0m | bittensor:loggingmachine.py:382 | Info enabled.
+2025-06-12T01:42:29: [34m2025-06-12 01:42:29.507[39m | [1m[37m      INFO      [39m[49m[0m | bittensor:loggingmachine.py:409 | Enabling debug.
+2025-06-12T01:42:29: [34m2025-06-12 01:42:29.508[39m | [1m[37m      INFO      [39m[49m[0m | bittensor:loggingmachine.py:422 | Debug enabled.
+2025-06-12T01:42:29: [34m2025-06-12 01:42:29.519[39m | [1m[37m      INFO      [39m[49m[0m | bittensor:loggingmachine.py:409 | Enabling debug.
+2025-06-12T01:42:29: [34m2025-06-12 01:42:29.519[39m | [1m[37m      INFO      [39m[49m[0m | bittensor:loggingmachine.py:422 | Debug enabled.
+2025-06-12T01:42:29: [34m2025-06-12 01:42:29.525[39m | [1m[37m      INFO      [39m[49m[0m | bittensor:miner.py:67 | wallet:
+2025-06-12T01:42:29:   name: default
+2025-06-12T01:42:29:   hotkey: default
+2025-06-12T01:42:29:   path: ~/.bittensor/wallets/
+2025-06-12T01:42:29: subtensor:
+2025-06-12T01:42:29:   network: test
+2025-06-12T01:42:29:   chain_endpoint: wss://entrypoint-finney.opentensor.ai:443
+2025-06-12T01:42:29:   _mock: false
+2025-06-12T01:42:29: logging:
+2025-06-12T01:42:29:   debug: true
+2025-06-12T01:42:29:   trace: false
+2025-06-12T01:42:29:   info: false
+2025-06-12T01:42:29:   record_log: false
+2025-06-12T01:42:29:   logging_dir: ~/.bittensor/miners
+2025-06-12T01:42:29: axon:
+2025-06-12T01:42:29:   port: 8091
+2025-06-12T01:42:29:   ip: '[::]'
+2025-06-12T01:42:29:   external_port: null
+2025-06-12T01:42:29:   external_ip: null
+2025-06-12T01:42:29:   max_workers: 10
+2025-06-12T01:42:29: netuid: 13
+2025-06-12T01:42:29: neuron:
+2025-06-12T01:42:29:   epoch_length: 100
+2025-06-12T01:42:29:   events_retention_size: 2 GB
+2025-06-12T01:42:29:   dont_save_events: false
+2025-06-12T01:42:29:   database_name: SqliteMinerStorage.sqlite
+2025-06-12T01:42:29:   max_database_size_gb_hint: 250
+2025-06-12T01:42:29:   scraping_config_file: /home/anirudh/data-universe/scraping/config/scraping_config.json
+2025-06-12T01:42:29:   full_path: /home/anirudh/.bittensor/miners/default/default/netuid13/None
+2025-06-12T01:42:29: vpermit_rao_limit: 10000
+2025-06-12T01:42:29: s3_auth_url: https://sn13-data.api.macrocosmos.ai
+2025-06-12T01:42:29: huggingface: false
+2025-06-12T01:42:29: gravity: false
+2025-06-12T01:42:29: encoding_key_json_file: /home/anirudh/data-universe/huggingface_utils/encoding_key.json
+2025-06-12T01:42:29: private_encoding_key_json_file: /home/anirudh/data-universe/huggingface_utils/private_encoding_key.json
+2025-06-12T01:42:29: miner_upload_state_file: /home/anirudh/data-universe/huggingface_utils/state_file.json
+2025-06-12T01:42:29: offline: false
+2025-06-12T01:42:29: config: false
+2025-06-12T01:42:29: strict: false
+2025-06-12T01:42:29: no_version_checking: false
+2025-06-12T01:42:29: [34m2025-06-12 01:42:29.525[39m | [1m[37m      INFO      [39m[49m[0m | bittensor:miner.py:80 | Wallet: Wallet (Name: 'default', Hotkey: 'default', Path: '~/.bittensor/wallets/').
+2025-06-12T01:42:29: [34m2025-06-12 01:42:29.525[39m | [1m[34m     DEBUG      [39m[49m[0m | bittensor:subtensor.py:130 | Connecting to network: [34mtest[0m, chain_endpoint: [34mwss://test.finney.opentensor.ai:443[0m> ...
+2025-06-12T01:42:33: [34m2025-06-12 01:42:33.286[39m | [1m[37m      INFO      [39m[49m[0m | bittensor:miner.py:84 | Subtensor: Network: test, Chain: wss://test.finney.opentensor.ai:443.
+2025-06-12T01:42:35: [34m2025-06-12 01:42:35.021[39m | [1m[37m      INFO      [39m[49m[0m | bittensor:miner.py:88 | Metagraph: metagraph(netuid:13, n:96, block:4734532, network:test).
+2025-06-12T01:42:36: [34m2025-06-12 01:42:36.233[39m | [1m[37m      INFO      [39m[49m[0m | bittensor:loggingmachine.py:422 | Debug enabled.
+2025-06-12T01:42:37: [34m2025-06-12 01:42:37.183[39m | [1m[37m      INFO      [39m[49m[0m | bittensor:loggingmachine.py:387 | Enabling trace.
+2025-06-12T01:42:37: [34m2025-06-12 01:42:37.184[39m | [1m[37m      INFO      [39m[49m[0m | bittensor:loggingmachine.py:394 | Trace enabled.
+2025-06-12T01:42:37: [34m2025-06-12 01:42:37.646[39m | [1m[37m      INFO      [39m[49m[0m | bittensor:loggingmachine.py:373 | Enabling info logging.
+2025-06-12T01:42:37: [34m2025-06-12 01:42:37.647[39m | [1m[37m      INFO      [39m[49m[0m | bittensor:loggingmachine.py:382 | Info enabled.
+2025-06-12T01:42:37: [34m2025-06-12 01:42:37.648[39m | [1m[37m      INFO      [39m[49m[0m | bittensor:loggingmachine.py:409 | Enabling debug.
+2025-06-12T01:42:37: [34m2025-06-12 01:42:37.648[39m | [1m[37m      INFO      [39m[49m[0m | bittensor:loggingmachine.py:422 | Debug enabled.
+2025-06-12T01:42:37: [34m2025-06-12 01:42:37.658[39m | [1m[37m      INFO      [39m[49m[0m | bittensor:loggingmachine.py:409 | Enabling debug.
+2025-06-12T01:42:37: [34m2025-06-12 01:42:37.659[39m | [1m[37m      INFO      [39m[49m[0m | bittensor:loggingmachine.py:422 | Debug enabled.
+2025-06-12T01:42:37: [34m2025-06-12 01:42:37.664[39m | [1m[37m      INFO      [39m[49m[0m | bittensor:miner.py:67 | wallet:
+2025-06-12T01:42:37:   name: default
+2025-06-12T01:42:37:   hotkey: default
+2025-06-12T01:42:37:   path: ~/.bittensor/wallets/
+2025-06-12T01:42:37: subtensor:
+2025-06-12T01:42:37:   network: test
+2025-06-12T01:42:37:   chain_endpoint: wss://entrypoint-finney.opentensor.ai:443
+2025-06-12T01:42:37:   _mock: false
+2025-06-12T01:42:37: logging:
+2025-06-12T01:42:37:   debug: true
+2025-06-12T01:42:37:   trace: false
+2025-06-12T01:42:37:   info: false
+2025-06-12T01:42:37:   record_log: false
+2025-06-12T01:42:37:   logging_dir: ~/.bittensor/miners
+2025-06-12T01:42:37: axon:
+2025-06-12T01:42:37:   port: 8091
+2025-06-12T01:42:37:   ip: '[::]'
+2025-06-12T01:42:37:   external_port: null
+2025-06-12T01:42:37:   external_ip: null
+2025-06-12T01:42:37:   max_workers: 10
+2025-06-12T01:42:37: netuid: 13
+2025-06-12T01:42:37: neuron:
+2025-06-12T01:42:37:   epoch_length: 100
+2025-06-12T01:42:37:   events_retention_size: 2 GB
+2025-06-12T01:42:37:   dont_save_events: false
+2025-06-12T01:42:37:   database_name: SqliteMinerStorage.sqlite
+2025-06-12T01:42:37:   max_database_size_gb_hint: 250
+2025-06-12T01:42:37:   scraping_config_file: /home/anirudh/data-universe/scraping/config/scraping_config.json
+2025-06-12T01:42:37:   full_path: /home/anirudh/.bittensor/miners/default/default/netuid13/None
+2025-06-12T01:42:37: vpermit_rao_limit: 10000
+2025-06-12T01:42:37: s3_auth_url: https://sn13-data.api.macrocosmos.ai
+2025-06-12T01:42:37: huggingface: false
+2025-06-12T01:42:37: gravity: false
+2025-06-12T01:42:37: encoding_key_json_file: /home/anirudh/data-universe/huggingface_utils/encoding_key.json
+2025-06-12T01:42:37: private_encoding_key_json_file: /home/anirudh/data-universe/huggingface_utils/private_encoding_key.json
+2025-06-12T01:42:37: miner_upload_state_file: /home/anirudh/data-universe/huggingface_utils/state_file.json
+2025-06-12T01:42:37: offline: false
+2025-06-12T01:42:37: config: false
+2025-06-12T01:42:37: strict: false
+2025-06-12T01:42:37: no_version_checking: false
+2025-06-12T01:42:37: [34m2025-06-12 01:42:37.664[39m | [1m[37m      INFO      [39m[49m[0m | bittensor:miner.py:80 | Wallet: Wallet (Name: 'default', Hotkey: 'default', Path: '~/.bittensor/wallets/').
+2025-06-12T01:42:37: [34m2025-06-12 01:42:37.664[39m | [1m[34m     DEBUG      [39m[49m[0m | bittensor:subtensor.py:130 | Connecting to network: [34mtest[0m, chain_endpoint: [34mwss://test.finney.opentensor.ai:443[0m> ...
+2025-06-12T01:42:41: [34m2025-06-12 01:42:41.136[39m | [1m[37m      INFO      [39m[49m[0m | bittensor:miner.py:84 | Subtensor: Network: test, Chain: wss://test.finney.opentensor.ai:443.
