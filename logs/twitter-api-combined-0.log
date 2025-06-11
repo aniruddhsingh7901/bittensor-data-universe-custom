@@ -1,0 +1,36 @@
+2025-06-11T22:07:45: Custom scraper not available, using mock data
+2025-06-11T22:07:45: INFO:     Started server process [56130]
+2025-06-11T22:07:45: INFO:     Waiting for application startup.
+2025-06-11T22:07:45: INFO:     Application startup complete.
+2025-06-11T22:07:45: INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+2025-06-11T22:18:17: Warning: Custom scraper not available: No module named 'enhanced_twitter_scraper'
+2025-06-11T22:18:17: INFO:     127.0.0.1:51738 - "POST /api/search HTTP/1.1" 200 OK
+2025-06-11T22:23:17: INFO:     127.0.0.1:58794 - "POST /api/search HTTP/1.1" 200 OK
+2025-06-11T22:49:47: INFO:     127.0.0.1:47908 - "POST /api/search HTTP/1.1" 200 OK
+2025-06-11T22:54:50: INFO:     127.0.0.1:38100 - "POST /api/search HTTP/1.1" 200 OK
+2025-06-11T22:58:33: INFO:     127.0.0.1:42710 - "POST /api/search HTTP/1.1" 401 Unauthorized
+2025-06-11T22:59:16: INFO:     127.0.0.1:39100 - "POST /api/search HTTP/1.1" 200 OK
+2025-06-11T22:59:55: INFO:     127.0.0.1:54668 - "POST /api/search HTTP/1.1" 200 OK
+2025-06-11T23:05:05: INFO:     127.0.0.1:51332 - "POST /api/search HTTP/1.1" 200 OK
+2025-06-11T23:07:37: INFO:     127.0.0.1:33004 - "POST /api/search HTTP/1.1" 200 OK
+2025-06-11T23:10:16: INFO:     127.0.0.1:44864 - "POST /api/search HTTP/1.1" 200 OK
+2025-06-11T23:15:27: INFO:     127.0.0.1:47276 - "POST /api/search HTTP/1.1" 200 OK
+2025-06-11T23:20:32: INFO:     127.0.0.1:55408 - "POST /api/search HTTP/1.1" 200 OK
+2025-06-11T23:25:35: INFO:     127.0.0.1:51804 - "POST /api/search HTTP/1.1" 200 OK
+2025-06-11T23:35:21: INFO:     127.0.0.1:35908 - "POST /api/search HTTP/1.1" 200 OK
+2025-06-11T23:40:21: INFO:     127.0.0.1:46110 - "POST /api/search HTTP/1.1" 200 OK
+2025-06-11T23:45:26: INFO:     127.0.0.1:59792 - "POST /api/search HTTP/1.1" 200 OK
+2025-06-12T00:24:46: INFO:     127.0.0.1:35402 - "POST /api/search HTTP/1.1" 200 OK
+2025-06-12T00:33:19: INFO:     127.0.0.1:34682 - "POST /api/search HTTP/1.1" 200 OK
+2025-06-12T00:38:27: INFO:     127.0.0.1:49742 - "POST /api/search HTTP/1.1" 200 OK
+2025-06-12T00:43:34: INFO:     127.0.0.1:37068 - "POST /api/search HTTP/1.1" 200 OK
+2025-06-12T00:48:45: INFO:     127.0.0.1:37238 - "POST /api/search HTTP/1.1" 200 OK
+2025-06-12T00:53:54: INFO:     127.0.0.1:57060 - "POST /api/search HTTP/1.1" 200 OK
+2025-06-12T00:59:03: INFO:     127.0.0.1:38836 - "POST /api/search HTTP/1.1" 200 OK
+2025-06-12T01:04:07: INFO:     127.0.0.1:59446 - "POST /api/search HTTP/1.1" 200 OK
+2025-06-12T01:09:07: INFO:     127.0.0.1:51504 - "POST /api/search HTTP/1.1" 200 OK
+2025-06-12T01:14:08: INFO:     127.0.0.1:47108 - "POST /api/search HTTP/1.1" 200 OK
+2025-06-12T01:19:10: INFO:     127.0.0.1:49972 - "POST /api/search HTTP/1.1" 200 OK
+2025-06-12T01:24:14: INFO:     127.0.0.1:48478 - "POST /api/search HTTP/1.1" 200 OK
+2025-06-12T01:29:20: INFO:     127.0.0.1:34714 - "POST /api/search HTTP/1.1" 200 OK
+2025-06-12T01:34:29: INFO:     127.0.0.1:59858 - "POST /api/search HTTP/1.1" 200 OK

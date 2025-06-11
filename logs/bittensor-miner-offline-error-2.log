@@ -1,0 +1,29 @@
+2025-06-11T22:14:17: Version 7.8.0 of asyncpraw is outdated. Version 7.8.1 was released Saturday December 21, 2024.
+2025-06-11T22:28:22: Version 7.8.0 of asyncpraw is outdated. Version 7.8.1 was released Saturday December 21, 2024.
+2025-06-11T22:32:22: Exception in thread Thread-8 (run):
+2025-06-11T22:32:22: Traceback (most recent call last):
+2025-06-11T22:32:22:   File "/usr/lib/python3.10/threading.py", line 1016, in _bootstrap_inner
+2025-06-11T22:32:22:     self.run()
+2025-06-11T22:32:22:   File "/usr/lib/python3.10/threading.py", line 953, in run
+2025-06-11T22:32:22:     self._target(*self._args, **self._kwargs)
+2025-06-11T22:32:22:   File "/home/anirudh/data-universe/scraping/coordinator.py", line 208, in run
+2025-06-11T22:32:22:     asyncio.run(self._start())
+2025-06-11T22:32:22:   File "/usr/lib/python3.10/asyncio/runners.py", line 44, in run
+2025-06-11T22:32:22:     return loop.run_until_complete(main)
+2025-06-11T22:32:22:   File "/usr/lib/python3.10/asyncio/base_events.py", line 649, in run_until_complete
+2025-06-11T22:32:22:     return future.result()
+2025-06-11T22:32:22:   File "/home/anirudh/data-universe/scraping/coordinator.py", line 245, in _start
+2025-06-11T22:32:22:     self.queue.put_nowait(functools.partial(scraper.scrape, config))
+2025-06-11T22:32:22: AttributeError: 'CustomTwitterRunner' object has no attribute 'scrape'
+2025-06-11T22:37:20: Version 7.8.0 of asyncpraw is outdated. Version 7.8.1 was released Saturday December 21, 2024.
+2025-06-11T22:41:25: Custom Twitter Scraper failed: 2 validation errors for RunConfig
+2025-06-11T22:41:25: actor_id
+2025-06-11T22:41:25:   Field required [type=missing, input_value={'max_data_entities': 150, 'timeout_secs': 300}, input_type=dict]
+2025-06-11T22:41:25:     For further information visit https://errors.pydantic.dev/2.10/v/missing
+2025-06-11T22:41:25: debug_info
+2025-06-11T22:41:25:   Field required [type=missing, input_value={'max_data_entities': 150, 'timeout_secs': 300}, input_type=dict]
+2025-06-11T22:41:25:     For further information visit https://errors.pydantic.dev/2.10/v/missing
+2025-06-11T22:45:42: Version 7.8.0 of asyncpraw is outdated. Version 7.8.1 was released Saturday December 21, 2024.
+2025-06-11T23:31:21: Version 7.8.0 of asyncpraw is outdated. Version 7.8.1 was released Saturday December 21, 2024.
+2025-06-12T00:29:17: Version 7.8.0 of asyncpraw is outdated. Version 7.8.1 was released Saturday December 21, 2024.
+2025-06-12T01:04:07: Failed to create DataEntity: BaseModel.__init__() takes 1 positional argument but 2 were given

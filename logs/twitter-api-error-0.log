@@ -1,0 +1,5 @@
+2025-06-11T22:07:45: Custom scraper not available, using mock data
+2025-06-11T22:07:45: INFO:     Started server process [56130]
+2025-06-11T22:07:45: INFO:     Waiting for application startup.
+2025-06-11T22:07:45: INFO:     Application startup complete.
+2025-06-11T22:07:45: INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)

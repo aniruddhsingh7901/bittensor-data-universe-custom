@@ -1,0 +1,732 @@
+2025-06-11 21:53:18,279 - __main__ - WARNING - Custom scraper not available. Using fallback mode.
+2025-06-11 21:53:18,279 - __main__ - INFO - Storage initialized successfully
+2025-06-11 21:53:18,279 - __main__ - INFO - 🚀 Starting background Twitter scraper service
+2025-06-11 21:53:18,279 - __main__ - INFO - 📊 Configuration:
+2025-06-11 21:53:18,279 - __main__ - INFO -    Batch size: 500 tweets
+2025-06-11 21:53:18,279 - __main__ - INFO -    Batch interval: 300 seconds
+2025-06-11 21:53:18,279 - __main__ - INFO -    Target rate: 1000 tweets/hour
+2025-06-11 21:53:18,279 - __main__ - INFO -    Target hashtags: 24 hashtags
+2025-06-11 21:53:18,279 - __main__ - INFO - 
+🔄 Starting batch 1
+2025-06-11 21:53:18,280 - __main__ - INFO - 📡 Starting tweet scraping...
+2025-06-11 21:53:18,280 - __main__ - INFO - 📊 Scraper returned 10 tweets
+2025-06-11 21:53:18,280 - __main__ - INFO - ✅ 10 valid tweets after filtering
+2025-06-11 21:53:18,280 - __main__ - INFO - 💾 Stored 10 tweets in database
+2025-06-11 21:53:18,280 - __main__ - INFO - ✅ Batch 1 completed:
+2025-06-11 21:53:18,280 - __main__ - INFO -    📊 Scraped: 10 tweets
+2025-06-11 21:53:18,280 - __main__ - INFO -    💾 Stored: 10 tweets
+2025-06-11 21:53:18,280 - __main__ - INFO -    ⏱️  Time: 0.0 seconds
+2025-06-11 21:53:18,280 - __main__ - INFO - ⏳ Waiting 300 seconds before next batch...
+2025-06-11 21:58:18,363 - __main__ - INFO - 
+🔄 Starting batch 2
+2025-06-11 21:58:18,363 - __main__ - INFO - 📡 Starting tweet scraping...
+2025-06-11 21:58:18,364 - __main__ - INFO - 📊 Scraper returned 10 tweets
+2025-06-11 21:58:18,364 - __main__ - INFO - ✅ 10 valid tweets after filtering
+2025-06-11 21:58:18,364 - __main__ - INFO - 💾 Stored 10 tweets in database
+2025-06-11 21:58:18,364 - __main__ - INFO - ✅ Batch 2 completed:
+2025-06-11 21:58:18,364 - __main__ - INFO -    📊 Scraped: 10 tweets
+2025-06-11 21:58:18,364 - __main__ - INFO -    💾 Stored: 10 tweets
+2025-06-11 21:58:18,364 - __main__ - INFO -    ⏱️  Time: 0.0 seconds
+2025-06-11 21:58:18,364 - __main__ - INFO - ⏳ Waiting 300 seconds before next batch...
+2025-06-11 22:03:18,464 - __main__ - INFO - 
+🔄 Starting batch 3
+2025-06-11 22:03:18,465 - __main__ - INFO - 📡 Starting tweet scraping...
+2025-06-11 22:03:18,465 - __main__ - INFO - 📊 Scraper returned 10 tweets
+2025-06-11 22:03:18,465 - __main__ - INFO - ✅ 10 valid tweets after filtering
+2025-06-11 22:03:18,465 - __main__ - INFO - 💾 Stored 10 tweets in database
+2025-06-11 22:03:18,465 - __main__ - INFO - ✅ Batch 3 completed:
+2025-06-11 22:03:18,465 - __main__ - INFO -    📊 Scraped: 10 tweets
+2025-06-11 22:03:18,465 - __main__ - INFO -    💾 Stored: 10 tweets
+2025-06-11 22:03:18,466 - __main__ - INFO -    ⏱️  Time: 0.0 seconds
+2025-06-11 22:03:18,466 - __main__ - INFO - ⏳ Waiting 300 seconds before next batch...
+2025-06-11 22:07:44,819 - __main__ - WARNING - Custom scraper not available. Using fallback mode.
+2025-06-11 22:07:44,819 - __main__ - INFO - Storage initialized successfully
+2025-06-11 22:07:44,819 - __main__ - INFO - 🚀 Starting background Twitter scraper service
+2025-06-11 22:07:44,819 - __main__ - INFO - 📊 Configuration:
+2025-06-11 22:07:44,820 - __main__ - INFO -    Batch size: 150 tweets
+2025-06-11 22:07:44,820 - __main__ - INFO -    Batch interval: 300 seconds
+2025-06-11 22:07:44,820 - __main__ - INFO -    Target rate: 1800 tweets/hour
+2025-06-11 22:07:44,820 - __main__ - INFO -    Target hashtags: 24 hashtags
+2025-06-11 22:07:44,820 - __main__ - INFO - 
+🔄 Starting batch 1
+2025-06-11 22:07:44,820 - __main__ - INFO - 📡 Starting tweet scraping...
+2025-06-11 22:07:44,820 - __main__ - INFO - 📊 Scraper returned 10 tweets
+2025-06-11 22:07:44,820 - __main__ - INFO - ✅ 10 valid tweets after filtering
+2025-06-11 22:07:44,820 - __main__ - INFO - 💾 Stored 10 tweets in database
+2025-06-11 22:07:44,820 - __main__ - INFO - ✅ Batch 1 completed:
+2025-06-11 22:07:44,820 - __main__ - INFO -    📊 Scraped: 10 tweets
+2025-06-11 22:07:44,820 - __main__ - INFO -    💾 Stored: 10 tweets
+2025-06-11 22:07:44,820 - __main__ - INFO -    ⏱️  Time: 0.0 seconds
+2025-06-11 22:07:44,820 - __main__ - INFO - ⏳ Waiting 300 seconds before next batch...
+2025-06-11 22:12:44,897 - __main__ - INFO - 
+🔄 Starting batch 2
+2025-06-11 22:12:44,898 - __main__ - INFO - 📡 Starting tweet scraping...
+2025-06-11 22:12:44,898 - __main__ - INFO - 📊 Scraper returned 10 tweets
+2025-06-11 22:12:44,898 - __main__ - INFO - ✅ 10 valid tweets after filtering
+2025-06-11 22:12:44,898 - __main__ - INFO - 💾 Stored 10 tweets in database
+2025-06-11 22:12:44,898 - __main__ - INFO - ✅ Batch 2 completed:
+2025-06-11 22:12:44,898 - __main__ - INFO -    📊 Scraped: 10 tweets
+2025-06-11 22:12:44,898 - __main__ - INFO -    💾 Stored: 10 tweets
+2025-06-11 22:12:44,898 - __main__ - INFO -    ⏱️  Time: 0.0 seconds
+2025-06-11 22:12:44,898 - __main__ - INFO - ⏳ Waiting 300 seconds before next batch...
+2025-06-11 22:13:06,177 - __main__ - WARNING - Custom scraper not available. Using fallback mode.
+2025-06-11 22:13:06,178 - __main__ - INFO - Storage initialized successfully
+2025-06-11 22:13:06,178 - __main__ - INFO - 🚀 Starting background Twitter scraper service
+2025-06-11 22:13:06,178 - __main__ - INFO - 📊 Configuration:
+2025-06-11 22:13:06,178 - __main__ - INFO -    Batch size: 150 tweets
+2025-06-11 22:13:06,178 - __main__ - INFO -    Batch interval: 300 seconds
+2025-06-11 22:13:06,178 - __main__ - INFO -    Target rate: 1800 tweets/hour
+2025-06-11 22:13:06,178 - __main__ - INFO -    Target hashtags: 24 hashtags
+2025-06-11 22:13:06,178 - __main__ - INFO - 
+🔄 Starting batch 1
+2025-06-11 22:13:06,178 - __main__ - INFO - 📡 Starting tweet scraping...
+2025-06-11 22:13:06,178 - __main__ - INFO - 📊 Scraper returned 10 tweets
+2025-06-11 22:13:06,179 - __main__ - INFO - ✅ 10 valid tweets after filtering
+2025-06-11 22:13:06,179 - __main__ - INFO - 💾 Stored 10 tweets in database
+2025-06-11 22:13:06,179 - __main__ - INFO - ✅ Batch 1 completed:
+2025-06-11 22:13:06,179 - __main__ - INFO -    📊 Scraped: 10 tweets
+2025-06-11 22:13:06,179 - __main__ - INFO -    💾 Stored: 10 tweets
+2025-06-11 22:13:06,179 - __main__ - INFO -    ⏱️  Time: 0.0 seconds
+2025-06-11 22:13:06,179 - __main__ - INFO - ⏳ Waiting 300 seconds before next batch...
+2025-06-11 22:16:55,334 - __main__ - WARNING - Custom scraper not available. Using fallback mode.
+2025-06-11 22:16:55,335 - __main__ - INFO - Storage initialized successfully
+2025-06-11 22:16:55,335 - __main__ - INFO - 🚀 Starting background Twitter scraper service
+2025-06-11 22:16:55,335 - __main__ - INFO - 📊 Configuration:
+2025-06-11 22:16:55,335 - __main__ - INFO -    Batch size: 150 tweets
+2025-06-11 22:16:55,335 - __main__ - INFO -    Batch interval: 300 seconds
+2025-06-11 22:16:55,335 - __main__ - INFO -    Target rate: 1800 tweets/hour
+2025-06-11 22:16:55,335 - __main__ - INFO -    Target hashtags: 24 hashtags
+2025-06-11 22:16:55,335 - __main__ - INFO -    Custom scraper available: False
+2025-06-11 22:16:55,335 - __main__ - INFO - 
+🔄 Starting batch 1
+2025-06-11 22:16:55,335 - __main__ - INFO - 📡 Starting tweet scraping...
+2025-06-11 22:16:55,335 - __main__ - WARNING - ⚠️  Using fallback mock scraper (limited to 10 tweets)
+2025-06-11 22:16:55,335 - __main__ - INFO - 📊 Scraper returned 10 tweets
+2025-06-11 22:16:55,335 - __main__ - INFO - ✅ 10 valid tweets after filtering
+2025-06-11 22:16:55,335 - __main__ - INFO - 💾 Stored 10 tweets in database
+2025-06-11 22:16:55,335 - __main__ - INFO - ✅ Batch 1 completed:
+2025-06-11 22:16:55,335 - __main__ - INFO -    📊 Scraped: 10 tweets
+2025-06-11 22:16:55,335 - __main__ - INFO -    💾 Stored: 10 tweets
+2025-06-11 22:16:55,335 - __main__ - INFO -    ⏱️  Time: 0.0 seconds
+2025-06-11 22:16:55,335 - __main__ - INFO - ⏳ Waiting 300 seconds before next batch...
+2025-06-11 22:21:55,435 - __main__ - INFO - 
+🔄 Starting batch 2
+2025-06-11 22:21:55,435 - __main__ - INFO - 📡 Starting tweet scraping...
+2025-06-11 22:21:55,435 - __main__ - WARNING - ⚠️  Using fallback mock scraper (limited to 10 tweets)
+2025-06-11 22:21:55,435 - __main__ - INFO - 📊 Scraper returned 10 tweets
+2025-06-11 22:21:55,435 - __main__ - INFO - ✅ 10 valid tweets after filtering
+2025-06-11 22:21:55,435 - __main__ - INFO - 💾 Stored 10 tweets in database
+2025-06-11 22:21:55,435 - __main__ - INFO - ✅ Batch 2 completed:
+2025-06-11 22:21:55,435 - __main__ - INFO -    📊 Scraped: 10 tweets
+2025-06-11 22:21:55,436 - __main__ - INFO -    💾 Stored: 10 tweets
+2025-06-11 22:21:55,436 - __main__ - INFO -    ⏱️  Time: 0.0 seconds
+2025-06-11 22:21:55,436 - __main__ - INFO - ⏳ Waiting 300 seconds before next batch...
+2025-06-11 22:26:55,536 - __main__ - INFO - 
+🔄 Starting batch 3
+2025-06-11 22:26:55,536 - __main__ - INFO - 📡 Starting tweet scraping...
+2025-06-11 22:26:55,536 - __main__ - WARNING - ⚠️  Using fallback mock scraper (limited to 10 tweets)
+2025-06-11 22:26:55,536 - __main__ - INFO - 📊 Scraper returned 10 tweets
+2025-06-11 22:26:55,536 - __main__ - INFO - ✅ 10 valid tweets after filtering
+2025-06-11 22:26:55,536 - __main__ - INFO - 💾 Stored 10 tweets in database
+2025-06-11 22:26:55,536 - __main__ - INFO - ✅ Batch 3 completed:
+2025-06-11 22:26:55,536 - __main__ - INFO -    📊 Scraped: 10 tweets
+2025-06-11 22:26:55,536 - __main__ - INFO -    💾 Stored: 10 tweets
+2025-06-11 22:26:55,537 - __main__ - INFO -    ⏱️  Time: 0.0 seconds
+2025-06-11 22:26:55,537 - __main__ - INFO - ⏳ Waiting 300 seconds before next batch...
+2025-06-11 22:31:55,544 - __main__ - INFO - 
+🔄 Starting batch 4
+2025-06-11 22:31:55,545 - __main__ - INFO - 📡 Starting tweet scraping...
+2025-06-11 22:31:55,545 - __main__ - WARNING - ⚠️  Using fallback mock scraper (limited to 10 tweets)
+2025-06-11 22:31:55,545 - __main__ - INFO - 📊 Scraper returned 10 tweets
+2025-06-11 22:31:55,546 - __main__ - INFO - ✅ 10 valid tweets after filtering
+2025-06-11 22:31:55,546 - __main__ - INFO - 💾 Stored 10 tweets in database
+2025-06-11 22:31:55,546 - __main__ - INFO - ✅ Batch 4 completed:
+2025-06-11 22:31:55,546 - __main__ - INFO -    📊 Scraped: 10 tweets
+2025-06-11 22:31:55,546 - __main__ - INFO -    💾 Stored: 10 tweets
+2025-06-11 22:31:55,546 - __main__ - INFO -    ⏱️  Time: 0.0 seconds
+2025-06-11 22:31:55,547 - __main__ - INFO - ⏳ Waiting 300 seconds before next batch...
+2025-06-11 22:36:55,627 - __main__ - INFO - 
+🔄 Starting batch 5
+2025-06-11 22:36:55,628 - __main__ - INFO - 📡 Starting tweet scraping...
+2025-06-11 22:36:55,628 - __main__ - WARNING - ⚠️  Using fallback mock scraper (limited to 10 tweets)
+2025-06-11 22:36:55,628 - __main__ - INFO - 📊 Scraper returned 10 tweets
+2025-06-11 22:36:55,628 - __main__ - INFO - ✅ 10 valid tweets after filtering
+2025-06-11 22:36:55,629 - __main__ - INFO - 💾 Stored 10 tweets in database
+2025-06-11 22:36:55,629 - __main__ - INFO - ✅ Batch 5 completed:
+2025-06-11 22:36:55,629 - __main__ - INFO -    📊 Scraped: 10 tweets
+2025-06-11 22:36:55,629 - __main__ - INFO -    💾 Stored: 10 tweets
+2025-06-11 22:36:55,629 - __main__ - INFO -    ⏱️  Time: 0.0 seconds
+2025-06-11 22:36:55,629 - __main__ - INFO - ⏳ Waiting 300 seconds before next batch...
+2025-06-11 22:41:55,729 - __main__ - INFO - 
+🔄 Starting batch 6
+2025-06-11 22:41:55,729 - __main__ - INFO - 📡 Starting tweet scraping...
+2025-06-11 22:41:55,729 - __main__ - WARNING - ⚠️  Using fallback mock scraper (limited to 10 tweets)
+2025-06-11 22:41:55,729 - __main__ - INFO - 📊 Scraper returned 10 tweets
+2025-06-11 22:41:55,729 - __main__ - INFO - ✅ 10 valid tweets after filtering
+2025-06-11 22:41:55,729 - __main__ - INFO - 💾 Stored 10 tweets in database
+2025-06-11 22:41:55,730 - __main__ - INFO - ✅ Batch 6 completed:
+2025-06-11 22:41:55,730 - __main__ - INFO -    📊 Scraped: 10 tweets
+2025-06-11 22:41:55,730 - __main__ - INFO -    💾 Stored: 10 tweets
+2025-06-11 22:41:55,730 - __main__ - INFO -    ⏱️  Time: 0.0 seconds
+2025-06-11 22:41:55,730 - __main__ - INFO - ⏳ Waiting 300 seconds before next batch...
+2025-06-11 22:46:55,830 - __main__ - INFO - 
+🔄 Starting batch 7
+2025-06-11 22:46:55,830 - __main__ - INFO - 📡 Starting tweet scraping...
+2025-06-11 22:46:55,831 - __main__ - WARNING - ⚠️  Using fallback mock scraper (limited to 10 tweets)
+2025-06-11 22:46:55,831 - __main__ - INFO - 📊 Scraper returned 10 tweets
+2025-06-11 22:46:55,831 - __main__ - INFO - ✅ 10 valid tweets after filtering
+2025-06-11 22:46:55,831 - __main__ - INFO - 💾 Stored 10 tweets in database
+2025-06-11 22:46:55,831 - __main__ - INFO - ✅ Batch 7 completed:
+2025-06-11 22:46:55,831 - __main__ - INFO -    📊 Scraped: 10 tweets
+2025-06-11 22:46:55,831 - __main__ - INFO -    💾 Stored: 10 tweets
+2025-06-11 22:46:55,831 - __main__ - INFO -    ⏱️  Time: 0.0 seconds
+2025-06-11 22:46:55,832 - __main__ - INFO - ⏳ Waiting 300 seconds before next batch...
+2025-06-11 22:51:55,900 - __main__ - INFO - 
+🔄 Starting batch 8
+2025-06-11 22:51:55,900 - __main__ - INFO - 📡 Starting tweet scraping...
+2025-06-11 22:51:55,900 - __main__ - WARNING - ⚠️  Using fallback mock scraper (limited to 10 tweets)
+2025-06-11 22:51:55,901 - __main__ - INFO - 📊 Scraper returned 10 tweets
+2025-06-11 22:51:55,901 - __main__ - INFO - ✅ 10 valid tweets after filtering
+2025-06-11 22:51:55,901 - __main__ - INFO - 💾 Stored 10 tweets in database
+2025-06-11 22:51:55,901 - __main__ - INFO - ✅ Batch 8 completed:
+2025-06-11 22:51:55,901 - __main__ - INFO -    📊 Scraped: 10 tweets
+2025-06-11 22:51:55,901 - __main__ - INFO -    💾 Stored: 10 tweets
+2025-06-11 22:51:55,901 - __main__ - INFO -    ⏱️  Time: 0.0 seconds
+2025-06-11 22:51:55,901 - __main__ - INFO - ⏳ Waiting 300 seconds before next batch...
+2025-06-11 22:56:55,995 - __main__ - INFO - 
+🔄 Starting batch 9
+2025-06-11 22:56:55,996 - __main__ - INFO - 📡 Starting tweet scraping...
+2025-06-11 22:56:55,996 - __main__ - WARNING - ⚠️  Using fallback mock scraper (limited to 10 tweets)
+2025-06-11 22:56:55,996 - __main__ - INFO - 📊 Scraper returned 10 tweets
+2025-06-11 22:56:55,996 - __main__ - INFO - ✅ 10 valid tweets after filtering
+2025-06-11 22:56:55,996 - __main__ - INFO - 💾 Stored 10 tweets in database
+2025-06-11 22:56:55,996 - __main__ - INFO - ✅ Batch 9 completed:
+2025-06-11 22:56:55,996 - __main__ - INFO -    📊 Scraped: 10 tweets
+2025-06-11 22:56:55,996 - __main__ - INFO -    💾 Stored: 10 tweets
+2025-06-11 22:56:55,996 - __main__ - INFO -    ⏱️  Time: 0.0 seconds
+2025-06-11 22:56:55,996 - __main__ - INFO - ⏳ Waiting 300 seconds before next batch...
+2025-06-11 23:01:56,096 - __main__ - INFO - 
+🔄 Starting batch 10
+2025-06-11 23:01:56,096 - __main__ - INFO - 📡 Starting tweet scraping...
+2025-06-11 23:01:56,096 - __main__ - WARNING - ⚠️  Using fallback mock scraper (limited to 10 tweets)
+2025-06-11 23:01:56,096 - __main__ - INFO - 📊 Scraper returned 10 tweets
+2025-06-11 23:01:56,096 - __main__ - INFO - ✅ 10 valid tweets after filtering
+2025-06-11 23:01:56,096 - __main__ - INFO - 💾 Stored 10 tweets in database
+2025-06-11 23:01:56,096 - __main__ - INFO - ✅ Batch 10 completed:
+2025-06-11 23:01:56,096 - __main__ - INFO -    📊 Scraped: 10 tweets
+2025-06-11 23:01:56,097 - __main__ - INFO -    💾 Stored: 10 tweets
+2025-06-11 23:01:56,097 - __main__ - INFO -    ⏱️  Time: 0.0 seconds
+2025-06-11 23:01:56,097 - __main__ - INFO - 
+📊 Progress Statistics:
+2025-06-11 23:01:56,097 - __main__ - INFO -    ⏱️  Runtime: 0.8 hours
+2025-06-11 23:01:56,097 - __main__ - INFO -    🔢 Total batches: 10
+2025-06-11 23:01:56,097 - __main__ - INFO -    🐦 Total scraped: 100
+2025-06-11 23:01:56,097 - __main__ - INFO -    💾 Total stored: 100
+2025-06-11 23:01:56,097 - __main__ - INFO -    📈 Rate: 133.3 tweets/hour
+2025-06-11 23:01:56,097 - __main__ - INFO -    📅 Daily projection: 3,199 tweets/day
+2025-06-11 23:01:56,097 - __main__ - INFO -    ❌ Errors: 0
+2025-06-11 23:01:56,097 - __main__ - INFO - 
+🏥 Scraper Health:
+2025-06-11 23:01:56,097 - __main__ - INFO -    🔗 Working proxies: 10
+2025-06-11 23:01:56,097 - __main__ - INFO -    👤 Working accounts: 5
+2025-06-11 23:01:56,097 - __main__ - INFO -    ✅ Success rate: 95.0%
+2025-06-11 23:01:56,097 - __main__ - INFO - ⏳ Waiting 300 seconds before next batch...
+2025-06-11 23:06:56,195 - __main__ - INFO - 
+🔄 Starting batch 11
+2025-06-11 23:06:56,196 - __main__ - INFO - 📡 Starting tweet scraping...
+2025-06-11 23:06:56,196 - __main__ - WARNING - ⚠️  Using fallback mock scraper (limited to 10 tweets)
+2025-06-11 23:06:56,196 - __main__ - INFO - 📊 Scraper returned 10 tweets
+2025-06-11 23:06:56,196 - __main__ - INFO - ✅ 10 valid tweets after filtering
+2025-06-11 23:06:56,196 - __main__ - INFO - 💾 Stored 10 tweets in database
+2025-06-11 23:06:56,197 - __main__ - INFO - ✅ Batch 11 completed:
+2025-06-11 23:06:56,197 - __main__ - INFO -    📊 Scraped: 10 tweets
+2025-06-11 23:06:56,197 - __main__ - INFO -    💾 Stored: 10 tweets
+2025-06-11 23:06:56,197 - __main__ - INFO -    ⏱️  Time: 0.0 seconds
+2025-06-11 23:06:56,197 - __main__ - INFO - ⏳ Waiting 300 seconds before next batch...
+2025-06-11 23:11:56,297 - __main__ - INFO - 
+🔄 Starting batch 12
+2025-06-11 23:11:56,298 - __main__ - INFO - 📡 Starting tweet scraping...
+2025-06-11 23:11:56,298 - __main__ - WARNING - ⚠️  Using fallback mock scraper (limited to 10 tweets)
+2025-06-11 23:11:56,299 - __main__ - INFO - 📊 Scraper returned 10 tweets
+2025-06-11 23:11:56,299 - __main__ - INFO - ✅ 10 valid tweets after filtering
+2025-06-11 23:11:56,299 - __main__ - INFO - 💾 Stored 10 tweets in database
+2025-06-11 23:11:56,299 - __main__ - INFO - ✅ Batch 12 completed:
+2025-06-11 23:11:56,299 - __main__ - INFO -    📊 Scraped: 10 tweets
+2025-06-11 23:11:56,300 - __main__ - INFO -    💾 Stored: 10 tweets
+2025-06-11 23:11:56,300 - __main__ - INFO -    ⏱️  Time: 0.0 seconds
+2025-06-11 23:11:56,300 - __main__ - INFO - ⏳ Waiting 300 seconds before next batch...
+2025-06-11 23:16:56,349 - __main__ - INFO - 🛑 Shutting down background scraper service
+2025-06-11 23:16:56,349 - __main__ - INFO - 
+📊 Final Statistics:
+2025-06-11 23:16:56,349 - __main__ - INFO -    ⏱️  Total runtime: 1:00:01.014385
+2025-06-11 23:16:56,349 - __main__ - INFO -    🔢 Total batches: 12
+2025-06-11 23:16:56,349 - __main__ - INFO -    🐦 Total scraped: 120
+2025-06-11 23:16:56,349 - __main__ - INFO -    💾 Total stored: 120
+2025-06-11 23:16:56,349 - __main__ - INFO -    ❌ Total errors: 0
+2025-06-11 23:16:56,350 - __main__ - INFO - 🛑 Shutting down background scraper service
+2025-06-11 23:16:56,350 - __main__ - INFO - 
+📊 Final Statistics:
+2025-06-11 23:16:56,350 - __main__ - INFO -    ⏱️  Total runtime: 1:00:01.015074
+2025-06-11 23:16:56,350 - __main__ - INFO -    🔢 Total batches: 12
+2025-06-11 23:16:56,350 - __main__ - INFO -    🐦 Total scraped: 120
+2025-06-11 23:16:56,350 - __main__ - INFO -    💾 Total stored: 120
+2025-06-11 23:16:56,350 - __main__ - INFO -    ❌ Total errors: 0
+2025-06-11 23:16:56,350 - __main__ - INFO - 🛑 Shutting down background scraper service
+2025-06-11 23:16:56,350 - __main__ - INFO - 
+📊 Final Statistics:
+2025-06-11 23:16:56,350 - __main__ - INFO -    ⏱️  Total runtime: 1:00:01.015557
+2025-06-11 23:16:56,350 - __main__ - INFO -    🔢 Total batches: 12
+2025-06-11 23:16:56,350 - __main__ - INFO -    🐦 Total scraped: 120
+2025-06-11 23:16:56,350 - __main__ - INFO -    💾 Total stored: 120
+2025-06-11 23:16:56,350 - __main__ - INFO -    ❌ Total errors: 0
+2025-06-11 23:16:56,839 - __main__ - WARNING - Custom scraper not available. Using fallback mode.
+2025-06-11 23:16:56,839 - __main__ - INFO - Storage initialized successfully
+2025-06-11 23:16:56,839 - __main__ - INFO - 🚀 Starting background Twitter scraper service
+2025-06-11 23:16:56,839 - __main__ - INFO - 📊 Configuration:
+2025-06-11 23:16:56,839 - __main__ - INFO -    Batch size: 150 tweets
+2025-06-11 23:16:56,839 - __main__ - INFO -    Batch interval: 300 seconds
+2025-06-11 23:16:56,839 - __main__ - INFO -    Target rate: 1800 tweets/hour
+2025-06-11 23:16:56,839 - __main__ - INFO -    Target hashtags: 24 hashtags
+2025-06-11 23:16:56,839 - __main__ - INFO -    Custom scraper available: False
+2025-06-11 23:16:56,839 - __main__ - INFO - 
+🔄 Starting batch 1
+2025-06-11 23:16:56,839 - __main__ - INFO - 📡 Starting tweet scraping...
+2025-06-11 23:16:56,839 - __main__ - WARNING - ⚠️  Using fallback mock scraper (limited to 10 tweets)
+2025-06-11 23:16:56,840 - __main__ - INFO - 📊 Scraper returned 10 tweets
+2025-06-11 23:16:56,840 - __main__ - INFO - ✅ 10 valid tweets after filtering
+2025-06-11 23:16:56,840 - __main__ - INFO - 💾 Stored 10 tweets in database
+2025-06-11 23:16:56,840 - __main__ - INFO - ✅ Batch 1 completed:
+2025-06-11 23:16:56,840 - __main__ - INFO -    📊 Scraped: 10 tweets
+2025-06-11 23:16:56,840 - __main__ - INFO -    💾 Stored: 10 tweets
+2025-06-11 23:16:56,840 - __main__ - INFO -    ⏱️  Time: 0.0 seconds
+2025-06-11 23:16:56,840 - __main__ - INFO - ⏳ Waiting 300 seconds before next batch...
+2025-06-11 23:18:01,401 - __main__ - WARNING - Custom scraper not available. Using fallback mode.
+2025-06-11 23:18:01,402 - __main__ - INFO - Storage initialized successfully
+2025-06-11 23:18:01,402 - __main__ - INFO - 🚀 Starting background Twitter scraper service
+2025-06-11 23:18:01,402 - __main__ - INFO - 📊 Configuration:
+2025-06-11 23:18:01,402 - __main__ - INFO -    Batch size: 150 tweets
+2025-06-11 23:18:01,402 - __main__ - INFO -    Batch interval: 300 seconds
+2025-06-11 23:18:01,402 - __main__ - INFO -    Target rate: 1800 tweets/hour
+2025-06-11 23:18:01,402 - __main__ - INFO -    Target hashtags: 24 hashtags
+2025-06-11 23:18:01,402 - __main__ - INFO -    Custom scraper available: False
+2025-06-11 23:18:01,402 - __main__ - INFO - 
+🔄 Starting batch 1
+2025-06-11 23:18:01,402 - __main__ - INFO - 📡 Starting tweet scraping...
+2025-06-11 23:18:01,402 - __main__ - WARNING - ⚠️  Using fallback mock scraper (limited to 10 tweets)
+2025-06-11 23:18:01,403 - __main__ - INFO - 📊 Scraper returned 10 tweets
+2025-06-11 23:18:01,403 - __main__ - INFO - ✅ 10 valid tweets after filtering
+2025-06-11 23:18:01,403 - __main__ - INFO - 💾 Stored 10 tweets in database
+2025-06-11 23:18:01,403 - __main__ - INFO - ✅ Batch 1 completed:
+2025-06-11 23:18:01,403 - __main__ - INFO -    📊 Scraped: 10 tweets
+2025-06-11 23:18:01,403 - __main__ - INFO -    💾 Stored: 10 tweets
+2025-06-11 23:18:01,403 - __main__ - INFO -    ⏱️  Time: 0.0 seconds
+2025-06-11 23:18:01,403 - __main__ - INFO - ⏳ Waiting 300 seconds before next batch...
+2025-06-11 23:21:45,353 - __main__ - INFO - 🔥 Your sophisticated ProxyTwitterMiner is ready!
+2025-06-11 23:21:45,375 - proxy_twitter_miner - ERROR - twitteracc.txt not found
+2025-06-11 23:21:45,375 - proxy_twitter_miner - ERROR - proxy.txt not found
+2025-06-11 23:21:45,375 - __main__ - ERROR - Failed to initialize storage: name 'OptimizedDataStorage' is not defined
+2025-06-11 23:21:45,375 - __main__ - INFO - 🚀 Starting background Twitter scraper service
+2025-06-11 23:21:45,375 - __main__ - INFO - 📊 Configuration:
+2025-06-11 23:21:45,375 - __main__ - INFO -    Batch size: 150 tweets
+2025-06-11 23:21:45,376 - __main__ - INFO -    Batch interval: 300 seconds
+2025-06-11 23:21:45,376 - __main__ - INFO -    Target rate: 1800 tweets/hour
+2025-06-11 23:21:45,376 - __main__ - INFO -    Target hashtags: 24 hashtags
+2025-06-11 23:21:45,376 - __main__ - INFO -    Custom scraper available: True
+2025-06-11 23:21:45,376 - __main__ - INFO - 
+🔄 Starting batch 1
+2025-06-11 23:21:45,376 - __main__ - INFO - 📡 Starting tweet scraping...
+2025-06-11 23:21:45,376 - __main__ - INFO - 🔥 Using your sophisticated ProxyTwitterMiner for 150 tweets!
+2025-06-11 23:21:45,376 - proxy_twitter_miner - INFO - Starting proxy-aware scrape for 150 tweets
+2025-06-11 23:21:45,376 - proxy_twitter_miner - INFO - Using 58 queries, 10 tweets per query
+2025-06-11 23:21:45,376 - proxy_twitter_miner - INFO - Processing query 1/58: #bittensor
+2025-06-11 23:21:45,376 - proxy_twitter_miner - WARNING - Resetting working proxy range...
+2025-06-11 23:21:45,376 - proxy_twitter_miner - WARNING - All accounts banned, resetting some...
+2025-06-11 23:21:45,376 - proxy_twitter_miner - ERROR - No working proxy or account available
+2025-06-11 23:21:45,376 - proxy_twitter_miner - INFO - Got 0 tweets. Total: 0
+2025-06-11 23:21:52,300 - proxy_twitter_miner - INFO - Processing query 2/58: #bittensor -filter:retweets
+2025-06-11 23:21:52,300 - proxy_twitter_miner - WARNING - Resetting working proxy range...
+2025-06-11 23:21:52,300 - proxy_twitter_miner - WARNING - All accounts banned, resetting some...
+2025-06-11 23:21:52,300 - proxy_twitter_miner - ERROR - No working proxy or account available
+2025-06-11 23:21:52,300 - proxy_twitter_miner - INFO - Got 0 tweets. Total: 0
+2025-06-11 23:21:59,456 - proxy_twitter_miner - INFO - Processing query 3/58: #polkadot -filter:retweets
+2025-06-11 23:21:59,456 - proxy_twitter_miner - WARNING - Resetting working proxy range...
+2025-06-11 23:21:59,456 - proxy_twitter_miner - WARNING - All accounts banned, resetting some...
+2025-06-11 23:21:59,456 - proxy_twitter_miner - ERROR - No working proxy or account available
+2025-06-11 23:21:59,456 - proxy_twitter_miner - INFO - Got 0 tweets. Total: 0
+2025-06-11 23:22:05,747 - proxy_twitter_miner - INFO - Processing query 4/58: #decentralizedfinance
+2025-06-11 23:22:05,747 - proxy_twitter_miner - WARNING - Resetting working proxy range...
+2025-06-11 23:22:05,747 - proxy_twitter_miner - WARNING - All accounts banned, resetting some...
+2025-06-11 23:22:05,747 - proxy_twitter_miner - ERROR - No working proxy or account available
+2025-06-11 23:22:05,747 - proxy_twitter_miner - INFO - Got 0 tweets. Total: 0
+2025-06-11 23:22:12,332 - proxy_twitter_miner - INFO - Processing query 5/58: #ethereum
+2025-06-11 23:22:12,333 - proxy_twitter_miner - WARNING - Resetting working proxy range...
+2025-06-11 23:22:12,333 - proxy_twitter_miner - WARNING - All accounts banned, resetting some...
+2025-06-11 23:22:12,333 - proxy_twitter_miner - ERROR - No working proxy or account available
+2025-06-11 23:22:12,333 - proxy_twitter_miner - INFO - Got 0 tweets. Total: 0
+2025-06-11 23:22:19,237 - proxy_twitter_miner - INFO - Processing query 6/58: #decentralizedfinance -filter:retweets
+2025-06-11 23:22:19,237 - proxy_twitter_miner - WARNING - Resetting working proxy range...
+2025-06-11 23:22:19,237 - proxy_twitter_miner - WARNING - All accounts banned, resetting some...
+2025-06-11 23:22:19,238 - proxy_twitter_miner - ERROR - No working proxy or account available
+2025-06-11 23:22:19,238 - proxy_twitter_miner - INFO - Got 0 tweets. Total: 0
+2025-06-11 23:22:23,814 - proxy_twitter_miner - INFO - Processing query 7/58: bitcoin
+2025-06-11 23:22:23,814 - proxy_twitter_miner - WARNING - Resetting working proxy range...
+2025-06-11 23:22:23,814 - proxy_twitter_miner - WARNING - All accounts banned, resetting some...
+2025-06-11 23:22:23,814 - proxy_twitter_miner - ERROR - No working proxy or account available
+2025-06-11 23:22:23,814 - proxy_twitter_miner - INFO - Got 0 tweets. Total: 0
+2025-06-11 23:22:31,814 - proxy_twitter_miner - INFO - Processing query 8/58: #bitcoin
+2025-06-11 23:22:31,814 - proxy_twitter_miner - WARNING - Resetting working proxy range...
+2025-06-11 23:22:31,814 - proxy_twitter_miner - WARNING - All accounts banned, resetting some...
+2025-06-11 23:22:31,814 - proxy_twitter_miner - ERROR - No working proxy or account available
+2025-06-11 23:22:31,814 - proxy_twitter_miner - INFO - Got 0 tweets. Total: 0
+2025-06-11 23:22:36,547 - proxy_twitter_miner - INFO - Processing query 9/58: #cryptocurrency
+2025-06-11 23:22:36,547 - proxy_twitter_miner - WARNING - Resetting working proxy range...
+2025-06-11 23:22:36,547 - proxy_twitter_miner - WARNING - All accounts banned, resetting some...
+2025-06-11 23:22:36,547 - proxy_twitter_miner - ERROR - No working proxy or account available
+2025-06-11 23:22:36,548 - proxy_twitter_miner - INFO - Got 0 tweets. Total: 0
+2025-06-11 23:22:43,052 - proxy_twitter_miner - INFO - Processing query 10/58: #bitcoiner
+2025-06-11 23:22:43,052 - proxy_twitter_miner - WARNING - Resetting working proxy range...
+2025-06-11 23:22:43,052 - proxy_twitter_miner - WARNING - All accounts banned, resetting some...
+2025-06-11 23:22:43,052 - proxy_twitter_miner - ERROR - No working proxy or account available
+2025-06-11 23:22:43,052 - proxy_twitter_miner - INFO - Got 0 tweets. Total: 0
+2025-06-11 23:22:49,880 - proxy_twitter_miner - INFO - Processing query 11/58: #artificialintelligence -filter:retweets
+2025-06-11 23:22:49,880 - proxy_twitter_miner - WARNING - Resetting working proxy range...
+2025-06-11 23:22:49,880 - proxy_twitter_miner - WARNING - All accounts banned, resetting some...
+2025-06-11 23:22:49,880 - proxy_twitter_miner - ERROR - No working proxy or account available
+2025-06-11 23:22:49,881 - proxy_twitter_miner - INFO - Got 0 tweets. Total: 0
+2025-06-11 23:22:57,756 - proxy_twitter_miner - INFO - Processing query 12/58: #solana
+2025-06-11 23:22:57,756 - proxy_twitter_miner - WARNING - Resetting working proxy range...
+2025-06-11 23:22:57,756 - proxy_twitter_miner - WARNING - All accounts banned, resetting some...
+2025-06-11 23:22:57,757 - proxy_twitter_miner - ERROR - No working proxy or account available
+2025-06-11 23:22:57,757 - proxy_twitter_miner - INFO - Got 0 tweets. Total: 0
+2025-06-11 23:23:01,660 - proxy_twitter_miner - INFO - Processing query 13/58: #bitcoinexchange -filter:retweets
+2025-06-11 23:23:01,660 - proxy_twitter_miner - WARNING - Resetting working proxy range...
+2025-06-11 23:23:01,660 - proxy_twitter_miner - WARNING - All accounts banned, resetting some...
+2025-06-11 23:23:01,660 - proxy_twitter_miner - ERROR - No working proxy or account available
+2025-06-11 23:23:01,661 - proxy_twitter_miner - INFO - Got 0 tweets. Total: 0
+2025-06-11 23:23:08,575 - proxy_twitter_miner - INFO - Processing query 14/58: #bitcoinmining -filter:retweets
+2025-06-11 23:23:08,575 - proxy_twitter_miner - WARNING - Resetting working proxy range...
+2025-06-11 23:23:08,575 - proxy_twitter_miner - WARNING - All accounts banned, resetting some...
+2025-06-11 23:23:08,575 - proxy_twitter_miner - ERROR - No working proxy or account available
+2025-06-11 23:23:08,576 - proxy_twitter_miner - INFO - Got 0 tweets. Total: 0
+2025-06-11 23:23:12,731 - proxy_twitter_miner - INFO - Processing query 15/58: #bitcoincharts -filter:retweets
+2025-06-11 23:23:12,731 - proxy_twitter_miner - WARNING - Resetting working proxy range...
+2025-06-11 23:23:12,732 - proxy_twitter_miner - WARNING - All accounts banned, resetting some...
+2025-06-11 23:23:12,732 - proxy_twitter_miner - ERROR - No working proxy or account available
+2025-06-11 23:23:12,732 - proxy_twitter_miner - INFO - Got 0 tweets. Total: 0
+2025-06-11 23:23:17,734 - proxy_twitter_miner - INFO - Processing query 16/58: #bitcoinprice -filter:retweets
+2025-06-11 23:23:17,745 - proxy_twitter_miner - WARNING - Resetting working proxy range...
+2025-06-11 23:23:17,745 - proxy_twitter_miner - WARNING - All accounts banned, resetting some...
+2025-06-11 23:23:17,745 - proxy_twitter_miner - ERROR - No working proxy or account available
+2025-06-11 23:23:17,745 - proxy_twitter_miner - INFO - Got 0 tweets. Total: 0
+2025-06-11 23:23:24,261 - proxy_twitter_miner - INFO - Processing query 17/58: #bitcointechnology
+2025-06-11 23:23:24,261 - proxy_twitter_miner - WARNING - Resetting working proxy range...
+2025-06-11 23:23:24,261 - proxy_twitter_miner - WARNING - All accounts banned, resetting some...
+2025-06-11 23:23:24,261 - proxy_twitter_miner - ERROR - No working proxy or account available
+2025-06-11 23:23:24,261 - proxy_twitter_miner - INFO - Got 0 tweets. Total: 0
+2025-06-11 23:23:27,817 - proxy_twitter_miner - INFO - Processing query 18/58: #tao
+2025-06-11 23:23:27,817 - proxy_twitter_miner - WARNING - Resetting working proxy range...
+2025-06-11 23:23:27,817 - proxy_twitter_miner - WARNING - All accounts banned, resetting some...
+2025-06-11 23:23:27,817 - proxy_twitter_miner - ERROR - No working proxy or account available
+2025-06-11 23:23:27,817 - proxy_twitter_miner - INFO - Got 0 tweets. Total: 0
+2025-06-11 23:23:32,847 - proxy_twitter_miner - INFO - Processing query 19/58: #ai
+2025-06-11 23:23:32,847 - proxy_twitter_miner - WARNING - Resetting working proxy range...
+2025-06-11 23:23:32,847 - proxy_twitter_miner - WARNING - All accounts banned, resetting some...
+2025-06-11 23:23:32,848 - proxy_twitter_miner - ERROR - No working proxy or account available
+2025-06-11 23:23:32,848 - proxy_twitter_miner - INFO - Got 0 tweets. Total: 0
+2025-06-11 23:23:37,286 - proxy_twitter_miner - INFO - Processing query 20/58: #ai -filter:retweets
+2025-06-11 23:23:37,287 - proxy_twitter_miner - WARNING - Resetting working proxy range...
+2025-06-11 23:23:37,287 - proxy_twitter_miner - WARNING - All accounts banned, resetting some...
+2025-06-11 23:23:37,287 - proxy_twitter_miner - ERROR - No working proxy or account available
+2025-06-11 23:23:37,287 - proxy_twitter_miner - INFO - Got 0 tweets. Total: 0
+2025-06-11 23:23:40,951 - proxy_twitter_miner - INFO - Processing query 21/58: #bitcoiner -filter:retweets
+2025-06-11 23:23:40,952 - proxy_twitter_miner - WARNING - Resetting working proxy range...
+2025-06-11 23:23:40,952 - proxy_twitter_miner - WARNING - All accounts banned, resetting some...
+2025-06-11 23:23:40,952 - proxy_twitter_miner - ERROR - No working proxy or account available
+2025-06-11 23:23:40,952 - proxy_twitter_miner - INFO - Got 0 tweets. Total: 0
+2025-06-11 23:23:47,827 - proxy_twitter_miner - INFO - Processing query 22/58: #bitcoincharts
+2025-06-11 23:23:47,827 - proxy_twitter_miner - WARNING - Resetting working proxy range...
+2025-06-11 23:23:47,827 - proxy_twitter_miner - WARNING - All accounts banned, resetting some...
+2025-06-11 23:23:47,828 - proxy_twitter_miner - ERROR - No working proxy or account available
+2025-06-11 23:23:47,828 - proxy_twitter_miner - INFO - Got 0 tweets. Total: 0
+2025-06-11 23:23:52,943 - proxy_twitter_miner - INFO - Processing query 23/58: #bitcoinmining
+2025-06-11 23:23:52,943 - proxy_twitter_miner - WARNING - Resetting working proxy range...
+2025-06-11 23:23:52,943 - proxy_twitter_miner - WARNING - All accounts banned, resetting some...
+2025-06-11 23:23:52,943 - proxy_twitter_miner - ERROR - No working proxy or account available
+2025-06-11 23:23:52,944 - proxy_twitter_miner - INFO - Got 0 tweets. Total: 0
+2025-06-11 23:23:58,534 - proxy_twitter_miner - INFO - Processing query 24/58: #cryptocurrency -filter:retweets
+2025-06-11 23:23:58,534 - proxy_twitter_miner - WARNING - Resetting working proxy range...
+2025-06-11 23:23:58,534 - proxy_twitter_miner - WARNING - All accounts banned, resetting some...
+2025-06-11 23:23:58,534 - proxy_twitter_miner - ERROR - No working proxy or account available
+2025-06-11 23:23:58,535 - proxy_twitter_miner - INFO - Got 0 tweets. Total: 0
+2025-06-11 23:24:04,103 - proxy_twitter_miner - INFO - Processing query 25/58: #blockchain -filter:retweets
+2025-06-11 23:24:04,103 - proxy_twitter_miner - WARNING - Resetting working proxy range...
+2025-06-11 23:24:04,103 - proxy_twitter_miner - WARNING - All accounts banned, resetting some...
+2025-06-11 23:24:04,103 - proxy_twitter_miner - ERROR - No working proxy or account available
+2025-06-11 23:24:04,103 - proxy_twitter_miner - INFO - Got 0 tweets. Total: 0
+2025-06-11 23:24:11,750 - proxy_twitter_miner - INFO - Processing query 26/58: #bitcoinnews
+2025-06-11 23:24:11,750 - proxy_twitter_miner - WARNING - Resetting working proxy range...
+2025-06-11 23:24:11,750 - proxy_twitter_miner - WARNING - All accounts banned, resetting some...
+2025-06-11 23:24:11,750 - proxy_twitter_miner - ERROR - No working proxy or account available
+2025-06-11 23:24:11,750 - proxy_twitter_miner - INFO - Got 0 tweets. Total: 0
+2025-06-11 23:24:18,581 - proxy_twitter_miner - INFO - Processing query 27/58: cardano
+2025-06-11 23:24:18,581 - proxy_twitter_miner - WARNING - Resetting working proxy range...
+2025-06-11 23:24:18,581 - proxy_twitter_miner - WARNING - All accounts banned, resetting some...
+2025-06-11 23:24:18,581 - proxy_twitter_miner - ERROR - No working proxy or account available
+2025-06-11 23:24:18,582 - proxy_twitter_miner - INFO - Got 0 tweets. Total: 0
+2025-06-11 23:24:25,724 - proxy_twitter_miner - INFO - Processing query 28/58: #polkadot
+2025-06-11 23:24:25,724 - proxy_twitter_miner - WARNING - Resetting working proxy range...
+2025-06-11 23:24:25,724 - proxy_twitter_miner - WARNING - All accounts banned, resetting some...
+2025-06-11 23:24:25,724 - proxy_twitter_miner - ERROR - No working proxy or account available
+2025-06-11 23:24:25,724 - proxy_twitter_miner - INFO - Got 0 tweets. Total: 0
+2025-06-11 23:24:31,969 - proxy_twitter_miner - INFO - Processing query 29/58: blockchain
+2025-06-11 23:24:31,970 - proxy_twitter_miner - WARNING - Resetting working proxy range...
+2025-06-11 23:24:31,970 - proxy_twitter_miner - WARNING - All accounts banned, resetting some...
+2025-06-11 23:24:31,970 - proxy_twitter_miner - ERROR - No working proxy or account available
+2025-06-11 23:24:31,970 - proxy_twitter_miner - INFO - Got 0 tweets. Total: 0
+2025-06-11 23:24:35,768 - proxy_twitter_miner - INFO - Processing query 30/58: #btc -filter:retweets
+2025-06-11 23:24:35,769 - proxy_twitter_miner - WARNING - Resetting working proxy range...
+2025-06-11 23:24:35,769 - proxy_twitter_miner - WARNING - All accounts banned, resetting some...
+2025-06-11 23:24:35,769 - proxy_twitter_miner - ERROR - No working proxy or account available
+2025-06-11 23:24:35,769 - proxy_twitter_miner - INFO - Got 0 tweets. Total: 0
+2025-06-11 23:24:41,628 - proxy_twitter_miner - INFO - Processing query 31/58: #cardano -filter:retweets
+2025-06-11 23:24:41,628 - proxy_twitter_miner - WARNING - Resetting working proxy range...
+2025-06-11 23:24:41,628 - proxy_twitter_miner - WARNING - All accounts banned, resetting some...
+2025-06-11 23:24:41,628 - proxy_twitter_miner - ERROR - No working proxy or account available
+2025-06-11 23:24:41,628 - proxy_twitter_miner - INFO - Got 0 tweets. Total: 0
+2025-06-11 23:24:47,538 - proxy_twitter_miner - INFO - Processing query 32/58: web3
+2025-06-11 23:24:47,538 - proxy_twitter_miner - WARNING - Resetting working proxy range...
+2025-06-11 23:24:47,538 - proxy_twitter_miner - WARNING - All accounts banned, resetting some...
+2025-06-11 23:24:47,538 - proxy_twitter_miner - ERROR - No working proxy or account available
+2025-06-11 23:24:47,538 - proxy_twitter_miner - INFO - Got 0 tweets. Total: 0
+2025-06-11 23:24:51,689 - proxy_twitter_miner - INFO - Processing query 33/58: #solana -filter:retweets
+2025-06-11 23:24:51,689 - proxy_twitter_miner - WARNING - Resetting working proxy range...
+2025-06-11 23:24:51,689 - proxy_twitter_miner - WARNING - All accounts banned, resetting some...
+2025-06-11 23:24:51,689 - proxy_twitter_miner - ERROR - No working proxy or account available
+2025-06-11 23:24:51,689 - proxy_twitter_miner - INFO - Got 0 tweets. Total: 0
+2025-06-11 23:24:56,664 - proxy_twitter_miner - INFO - Processing query 34/58: cryptocurrency
+2025-06-11 23:24:56,664 - proxy_twitter_miner - WARNING - Resetting working proxy range...
+2025-06-11 23:24:56,665 - proxy_twitter_miner - WARNING - All accounts banned, resetting some...
+2025-06-11 23:24:56,665 - proxy_twitter_miner - ERROR - No working proxy or account available
+2025-06-11 23:24:56,665 - proxy_twitter_miner - INFO - Got 0 tweets. Total: 0
+2025-06-11 23:25:03,909 - proxy_twitter_miner - INFO - Processing query 35/58: #bitcoin -filter:retweets
+2025-06-11 23:25:03,909 - proxy_twitter_miner - WARNING - Resetting working proxy range...
+2025-06-11 23:25:03,909 - proxy_twitter_miner - WARNING - All accounts banned, resetting some...
+2025-06-11 23:25:03,909 - proxy_twitter_miner - ERROR - No working proxy or account available
+2025-06-11 23:25:03,909 - proxy_twitter_miner - INFO - Got 0 tweets. Total: 0
+2025-06-11 23:25:09,212 - proxy_twitter_miner - INFO - Processing query 36/58: ethereum
+2025-06-11 23:25:09,212 - proxy_twitter_miner - WARNING - Resetting working proxy range...
+2025-06-11 23:25:09,212 - proxy_twitter_miner - WARNING - All accounts banned, resetting some...
+2025-06-11 23:25:09,213 - proxy_twitter_miner - ERROR - No working proxy or account available
+2025-06-11 23:25:09,213 - proxy_twitter_miner - INFO - Got 0 tweets. Total: 0
+2025-06-11 23:25:16,362 - proxy_twitter_miner - INFO - Processing query 37/58: #bitcointrading -filter:retweets
+2025-06-11 23:25:16,362 - proxy_twitter_miner - WARNING - Resetting working proxy range...
+2025-06-11 23:25:16,362 - proxy_twitter_miner - WARNING - All accounts banned, resetting some...
+2025-06-11 23:25:16,362 - proxy_twitter_miner - ERROR - No working proxy or account available
+2025-06-11 23:25:16,362 - proxy_twitter_miner - INFO - Got 0 tweets. Total: 0
+2025-06-11 23:25:23,412 - proxy_twitter_miner - INFO - Processing query 38/58: #ethereum -filter:retweets
+2025-06-11 23:25:23,412 - proxy_twitter_miner - WARNING - Resetting working proxy range...
+2025-06-11 23:25:23,412 - proxy_twitter_miner - WARNING - All accounts banned, resetting some...
+2025-06-11 23:25:23,412 - proxy_twitter_miner - ERROR - No working proxy or account available
+2025-06-11 23:25:23,412 - proxy_twitter_miner - INFO - Got 0 tweets. Total: 0
+2025-06-11 23:25:29,310 - proxy_twitter_miner - INFO - Processing query 39/58: #bitcoinnews -filter:retweets
+2025-06-11 23:25:29,310 - proxy_twitter_miner - WARNING - Resetting working proxy range...
+2025-06-11 23:25:29,311 - proxy_twitter_miner - WARNING - All accounts banned, resetting some...
+2025-06-11 23:25:29,311 - proxy_twitter_miner - ERROR - No working proxy or account available
+2025-06-11 23:25:29,311 - proxy_twitter_miner - INFO - Got 0 tweets. Total: 0
+2025-06-11 23:25:33,571 - proxy_twitter_miner - INFO - Processing query 40/58: crypto
+2025-06-11 23:25:33,571 - proxy_twitter_miner - WARNING - Resetting working proxy range...
+2025-06-11 23:25:33,571 - proxy_twitter_miner - WARNING - All accounts banned, resetting some...
+2025-06-11 23:25:33,571 - proxy_twitter_miner - ERROR - No working proxy or account available
+2025-06-11 23:25:33,571 - proxy_twitter_miner - INFO - Got 0 tweets. Total: 0
+2025-06-11 23:25:38,170 - proxy_twitter_miner - INFO - Processing query 41/58: #cardano
+2025-06-11 23:25:38,170 - proxy_twitter_miner - WARNING - Resetting working proxy range...
+2025-06-11 23:25:38,170 - proxy_twitter_miner - WARNING - All accounts banned, resetting some...
+2025-06-11 23:25:38,170 - proxy_twitter_miner - ERROR - No working proxy or account available
+2025-06-11 23:25:38,170 - proxy_twitter_miner - INFO - Got 0 tweets. Total: 0
+2025-06-11 23:25:41,175 - proxy_twitter_miner - INFO - Processing query 42/58: #tao -filter:retweets
+2025-06-11 23:25:41,175 - proxy_twitter_miner - WARNING - Resetting working proxy range...
+2025-06-11 23:25:41,175 - proxy_twitter_miner - WARNING - All accounts banned, resetting some...
+2025-06-11 23:25:41,175 - proxy_twitter_miner - ERROR - No working proxy or account available
+2025-06-11 23:25:41,175 - proxy_twitter_miner - INFO - Got 0 tweets. Total: 0
+2025-06-11 23:25:48,653 - proxy_twitter_miner - INFO - Processing query 43/58: #bitcointrading
+2025-06-11 23:25:48,653 - proxy_twitter_miner - WARNING - Resetting working proxy range...
+2025-06-11 23:25:48,654 - proxy_twitter_miner - WARNING - All accounts banned, resetting some...
+2025-06-11 23:25:48,654 - proxy_twitter_miner - ERROR - No working proxy or account available
+2025-06-11 23:25:48,654 - proxy_twitter_miner - INFO - Got 0 tweets. Total: 0
+2025-06-11 23:25:54,571 - proxy_twitter_miner - INFO - Processing query 44/58: #blockchain
+2025-06-11 23:25:54,571 - proxy_twitter_miner - WARNING - Resetting working proxy range...
+2025-06-11 23:25:54,571 - proxy_twitter_miner - WARNING - All accounts banned, resetting some...
+2025-06-11 23:25:54,571 - proxy_twitter_miner - ERROR - No working proxy or account available
+2025-06-11 23:25:54,571 - proxy_twitter_miner - INFO - Got 0 tweets. Total: 0
+2025-06-11 23:25:59,213 - proxy_twitter_miner - INFO - Processing query 45/58: #web3
+2025-06-11 23:25:59,213 - proxy_twitter_miner - WARNING - Resetting working proxy range...
+2025-06-11 23:25:59,213 - proxy_twitter_miner - WARNING - All accounts banned, resetting some...
+2025-06-11 23:25:59,213 - proxy_twitter_miner - ERROR - No working proxy or account available
+2025-06-11 23:25:59,213 - proxy_twitter_miner - INFO - Got 0 tweets. Total: 0
+2025-06-11 23:26:02,653 - proxy_twitter_miner - INFO - Processing query 46/58: #artificialintelligence
+2025-06-11 23:26:02,653 - proxy_twitter_miner - WARNING - Resetting working proxy range...
+2025-06-11 23:26:02,653 - proxy_twitter_miner - WARNING - All accounts banned, resetting some...
+2025-06-11 23:26:02,653 - proxy_twitter_miner - ERROR - No working proxy or account available
+2025-06-11 23:26:02,653 - proxy_twitter_miner - INFO - Got 0 tweets. Total: 0
+2025-06-11 23:26:06,895 - proxy_twitter_miner - INFO - Processing query 47/58: polkadot
+2025-06-11 23:26:06,895 - proxy_twitter_miner - WARNING - Resetting working proxy range...
+2025-06-11 23:26:06,895 - proxy_twitter_miner - WARNING - All accounts banned, resetting some...
+2025-06-11 23:26:06,895 - proxy_twitter_miner - ERROR - No working proxy or account available
+2025-06-11 23:26:06,895 - proxy_twitter_miner - INFO - Got 0 tweets. Total: 0
+2025-06-11 23:26:11,716 - __main__ - INFO - 🔥 Your sophisticated ProxyTwitterMiner is ready!
+2025-06-11 23:26:11,717 - proxy_twitter_miner - ERROR - twitteracc.txt not found
+2025-06-11 23:26:11,717 - proxy_twitter_miner - ERROR - proxy.txt not found
+2025-06-11 23:26:11,717 - __main__ - ERROR - Failed to initialize storage: name 'OptimizedDataStorage' is not defined
+2025-06-11 23:26:11,717 - __main__ - INFO - 🚀 Starting background Twitter scraper service
+2025-06-11 23:26:11,718 - __main__ - INFO - 📊 Configuration:
+2025-06-11 23:26:11,718 - __main__ - INFO -    Batch size: 150 tweets
+2025-06-11 23:26:11,718 - __main__ - INFO -    Batch interval: 300 seconds
+2025-06-11 23:26:11,718 - __main__ - INFO -    Target rate: 1800 tweets/hour
+2025-06-11 23:26:11,718 - __main__ - INFO -    Target hashtags: 24 hashtags
+2025-06-11 23:26:11,718 - __main__ - INFO -    Custom scraper available: True
+2025-06-11 23:26:11,718 - __main__ - INFO - 
+🔄 Starting batch 1
+2025-06-11 23:26:11,718 - __main__ - INFO - 📡 Starting tweet scraping...
+2025-06-11 23:26:11,718 - __main__ - INFO - 🔥 Using your sophisticated ProxyTwitterMiner for 150 tweets!
+2025-06-11 23:26:11,718 - proxy_twitter_miner - INFO - Starting proxy-aware scrape for 150 tweets
+2025-06-11 23:26:11,718 - proxy_twitter_miner - INFO - Using 58 queries, 10 tweets per query
+2025-06-11 23:26:11,718 - proxy_twitter_miner - INFO - Processing query 1/58: #web3 -filter:retweets
+2025-06-11 23:26:11,719 - proxy_twitter_miner - WARNING - Resetting working proxy range...
+2025-06-11 23:26:11,719 - proxy_twitter_miner - WARNING - All accounts banned, resetting some...
+2025-06-11 23:26:11,719 - proxy_twitter_miner - ERROR - No working proxy or account available
+2025-06-11 23:26:11,719 - proxy_twitter_miner - INFO - Got 0 tweets. Total: 0
+2025-06-11 23:26:19,052 - proxy_twitter_miner - INFO - Processing query 2/58: #crypto
+2025-06-11 23:26:19,052 - proxy_twitter_miner - WARNING - Resetting working proxy range...
+2025-06-11 23:26:19,052 - proxy_twitter_miner - WARNING - All accounts banned, resetting some...
+2025-06-11 23:26:19,052 - proxy_twitter_miner - ERROR - No working proxy or account available
+2025-06-11 23:26:19,052 - proxy_twitter_miner - INFO - Got 0 tweets. Total: 0
+2025-06-11 23:26:22,977 - proxy_twitter_miner - INFO - Processing query 3/58: #bitcoinexchange
+2025-06-11 23:26:22,977 - proxy_twitter_miner - WARNING - Resetting working proxy range...
+2025-06-11 23:26:22,977 - proxy_twitter_miner - WARNING - All accounts banned, resetting some...
+2025-06-11 23:26:22,977 - proxy_twitter_miner - ERROR - No working proxy or account available
+2025-06-11 23:26:22,977 - proxy_twitter_miner - INFO - Got 0 tweets. Total: 0
+2025-06-11 23:26:29,161 - proxy_twitter_miner - INFO - Processing query 4/58: #bitcoinprice
+2025-06-11 23:26:29,161 - proxy_twitter_miner - WARNING - Resetting working proxy range...
+2025-06-11 23:26:29,161 - proxy_twitter_miner - WARNING - All accounts banned, resetting some...
+2025-06-11 23:26:29,161 - proxy_twitter_miner - ERROR - No working proxy or account available
+2025-06-11 23:26:29,161 - proxy_twitter_miner - INFO - Got 0 tweets. Total: 0
+2025-06-11 23:26:32,203 - proxy_twitter_miner - INFO - Processing query 5/58: #polkadot -filter:retweets
+2025-06-11 23:26:32,204 - proxy_twitter_miner - WARNING - Resetting working proxy range...
+2025-06-11 23:26:32,204 - proxy_twitter_miner - WARNING - All accounts banned, resetting some...
+2025-06-11 23:26:32,204 - proxy_twitter_miner - ERROR - No working proxy or account available
+2025-06-11 23:26:32,204 - proxy_twitter_miner - INFO - Got 0 tweets. Total: 0
+2025-06-11 23:26:38,137 - proxy_twitter_miner - INFO - Processing query 6/58: blockchain
+2025-06-11 23:26:38,138 - proxy_twitter_miner - WARNING - Resetting working proxy range...
+2025-06-11 23:26:38,138 - proxy_twitter_miner - WARNING - All accounts banned, resetting some...
+2025-06-11 23:26:38,138 - proxy_twitter_miner - ERROR - No working proxy or account available
+2025-06-11 23:26:38,138 - proxy_twitter_miner - INFO - Got 0 tweets. Total: 0
+2025-06-11 23:26:41,898 - proxy_twitter_miner - INFO - Processing query 7/58: #bitcoiner -filter:retweets
+2025-06-11 23:26:41,898 - proxy_twitter_miner - WARNING - Resetting working proxy range...
+2025-06-11 23:26:41,899 - proxy_twitter_miner - WARNING - All accounts banned, resetting some...
+2025-06-11 23:26:41,899 - proxy_twitter_miner - ERROR - No working proxy or account available
+2025-06-11 23:26:41,899 - proxy_twitter_miner - INFO - Got 0 tweets. Total: 0
+2025-06-11 23:26:45,450 - proxy_twitter_miner - INFO - Processing query 8/58: #bitcoiner
+2025-06-11 23:26:45,451 - proxy_twitter_miner - WARNING - Resetting working proxy range...
+2025-06-11 23:26:45,451 - proxy_twitter_miner - WARNING - All accounts banned, resetting some...
+2025-06-11 23:26:45,451 - proxy_twitter_miner - ERROR - No working proxy or account available
+2025-06-11 23:26:45,451 - proxy_twitter_miner - INFO - Got 0 tweets. Total: 0
+2025-06-11 23:26:49,634 - proxy_twitter_miner - INFO - Processing query 9/58: ethereum
+2025-06-11 23:26:49,634 - proxy_twitter_miner - WARNING - Resetting working proxy range...
+2025-06-11 23:26:49,634 - proxy_twitter_miner - WARNING - All accounts banned, resetting some...
+2025-06-11 23:26:49,634 - proxy_twitter_miner - ERROR - No working proxy or account available
+2025-06-11 23:26:49,635 - proxy_twitter_miner - INFO - Got 0 tweets. Total: 0
+2025-06-11 23:26:53,441 - proxy_twitter_miner - INFO - Processing query 10/58: #bitcoinnews
+2025-06-11 23:26:53,441 - proxy_twitter_miner - WARNING - Resetting working proxy range...
+2025-06-11 23:26:53,441 - proxy_twitter_miner - WARNING - All accounts banned, resetting some...
+2025-06-11 23:26:53,442 - proxy_twitter_miner - ERROR - No working proxy or account available
+2025-06-11 23:26:53,442 - proxy_twitter_miner - INFO - Got 0 tweets. Total: 0
+2025-06-11 23:26:56,951 - proxy_twitter_miner - INFO - Processing query 11/58: #solana
+2025-06-11 23:26:56,951 - proxy_twitter_miner - WARNING - Resetting working proxy range...
+2025-06-11 23:26:56,951 - proxy_twitter_miner - WARNING - All accounts banned, resetting some...
+2025-06-11 23:26:56,951 - proxy_twitter_miner - ERROR - No working proxy or account available
+2025-06-11 23:26:56,951 - proxy_twitter_miner - INFO - Got 0 tweets. Total: 0
+2025-06-11 23:27:03,453 - proxy_twitter_miner - INFO - Processing query 12/58: #cardano
+2025-06-11 23:27:03,453 - proxy_twitter_miner - WARNING - Resetting working proxy range...
+2025-06-11 23:27:03,453 - proxy_twitter_miner - WARNING - All accounts banned, resetting some...
+2025-06-11 23:27:03,454 - proxy_twitter_miner - ERROR - No working proxy or account available
+2025-06-11 23:27:03,454 - proxy_twitter_miner - INFO - Got 0 tweets. Total: 0
+2025-06-11 23:27:11,450 - proxy_twitter_miner - INFO - Processing query 13/58: #bitcoincharts
+2025-06-11 23:27:11,451 - proxy_twitter_miner - WARNING - Resetting working proxy range...
+2025-06-11 23:27:11,451 - proxy_twitter_miner - WARNING - All accounts banned, resetting some...
+2025-06-11 23:27:11,451 - proxy_twitter_miner - ERROR - No working proxy or account available
+2025-06-11 23:27:11,451 - proxy_twitter_miner - INFO - Got 0 tweets. Total: 0
+2025-06-11 23:27:15,909 - proxy_twitter_miner - INFO - Processing query 14/58: #bitcoincharts -filter:retweets
+2025-06-11 23:27:15,909 - proxy_twitter_miner - WARNING - Resetting working proxy range...
+2025-06-11 23:27:15,909 - proxy_twitter_miner - WARNING - All accounts banned, resetting some...
+2025-06-11 23:27:15,909 - proxy_twitter_miner - ERROR - No working proxy or account available
+2025-06-11 23:27:15,910 - proxy_twitter_miner - INFO - Got 0 tweets. Total: 0
+2025-06-11 23:27:18,918 - proxy_twitter_miner - INFO - Processing query 15/58: #bitcoinnews -filter:retweets
+2025-06-11 23:27:18,918 - proxy_twitter_miner - WARNING - Resetting working proxy range...
+2025-06-11 23:27:18,918 - proxy_twitter_miner - WARNING - All accounts banned, resetting some...
+2025-06-11 23:27:18,918 - proxy_twitter_miner - ERROR - No working proxy or account available
+2025-06-11 23:27:18,918 - proxy_twitter_miner - INFO - Got 0 tweets. Total: 0
+2025-06-11 23:27:24,385 - proxy_twitter_miner - INFO - Processing query 16/58: #artificialintelligence
+2025-06-11 23:27:24,385 - proxy_twitter_miner - WARNING - Resetting working proxy range...
+2025-06-11 23:27:24,386 - proxy_twitter_miner - WARNING - All accounts banned, resetting some...
+2025-06-11 23:27:24,386 - proxy_twitter_miner - ERROR - No working proxy or account available
+2025-06-11 23:27:24,386 - proxy_twitter_miner - INFO - Got 0 tweets. Total: 0
+2025-06-11 23:27:29,047 - proxy_twitter_miner - INFO - Processing query 17/58: #cryptocurrency
+2025-06-11 23:27:29,047 - proxy_twitter_miner - WARNING - Resetting working proxy range...
+2025-06-11 23:27:29,047 - proxy_twitter_miner - WARNING - All accounts banned, resetting some...
+2025-06-11 23:27:29,047 - proxy_twitter_miner - ERROR - No working proxy or account available
+2025-06-11 23:27:29,047 - proxy_twitter_miner - INFO - Got 0 tweets. Total: 0
+2025-06-11 23:27:34,723 - proxy_twitter_miner - INFO - Processing query 18/58: #bitcoinmining
+2025-06-11 23:27:34,723 - proxy_twitter_miner - WARNING - Resetting working proxy range...
+2025-06-11 23:27:34,723 - proxy_twitter_miner - WARNING - All accounts banned, resetting some...
+2025-06-11 23:27:34,723 - proxy_twitter_miner - ERROR - No working proxy or account available
+2025-06-11 23:27:34,723 - proxy_twitter_miner - INFO - Got 0 tweets. Total: 0
+2025-06-11 23:27:41,766 - proxy_twitter_miner - INFO - Processing query 19/58: cardano
+2025-06-11 23:27:41,766 - proxy_twitter_miner - WARNING - Resetting working proxy range...
+2025-06-11 23:27:41,766 - proxy_twitter_miner - WARNING - All accounts banned, resetting some...
+2025-06-11 23:27:41,767 - proxy_twitter_miner - ERROR - No working proxy or account available
+2025-06-11 23:27:41,767 - proxy_twitter_miner - INFO - Got 0 tweets. Total: 0
+2025-06-11 23:27:48,702 - proxy_twitter_miner - INFO - Processing query 20/58: #tao -filter:retweets
+2025-06-11 23:27:48,702 - proxy_twitter_miner - WARNING - Resetting working proxy range...
+2025-06-11 23:27:48,702 - proxy_twitter_miner - WARNING - All accounts banned, resetting some...
+2025-06-11 23:27:48,702 - proxy_twitter_miner - ERROR - No working proxy or account available
+2025-06-11 23:27:48,702 - proxy_twitter_miner - INFO - Got 0 tweets. Total: 0
+2025-06-11 23:27:54,020 - proxy_twitter_miner - INFO - Processing query 21/58: #bittensor
+2025-06-11 23:27:54,020 - proxy_twitter_miner - WARNING - Resetting working proxy range...
+2025-06-11 23:27:54,020 - proxy_twitter_miner - WARNING - All accounts banned, resetting some...
+2025-06-11 23:27:54,021 - proxy_twitter_miner - ERROR - No working proxy or account available
+2025-06-11 23:27:54,021 - proxy_twitter_miner - INFO - Got 0 tweets. Total: 0
+2025-06-11 23:27:57,842 - proxy_twitter_miner - INFO - Processing query 22/58: #bitcoinmining -filter:retweets
+2025-06-11 23:27:57,842 - proxy_twitter_miner - WARNING - Resetting working proxy range...
+2025-06-11 23:27:57,842 - proxy_twitter_miner - WARNING - All accounts banned, resetting some...
+2025-06-11 23:27:57,842 - proxy_twitter_miner - ERROR - No working proxy or account available
+2025-06-11 23:27:57,842 - proxy_twitter_miner - INFO - Got 0 tweets. Total: 0
+2025-06-11 23:28:03,042 - proxy_twitter_miner - INFO - Processing query 23/58: #bitcointechnology
+2025-06-11 23:28:03,042 - proxy_twitter_miner - WARNING - Resetting working proxy range...
+2025-06-11 23:28:03,042 - proxy_twitter_miner - WARNING - All accounts banned, resetting some...
+2025-06-11 23:28:03,042 - proxy_twitter_miner - ERROR - No working proxy or account available
+2025-06-11 23:28:03,042 - proxy_twitter_miner - INFO - Got 0 tweets. Total: 0
+2025-06-11 23:28:09,544 - proxy_twitter_miner - INFO - Processing query 24/58: #bittensor -filter:retweets
+2025-06-11 23:28:09,544 - proxy_twitter_miner - WARNING - Resetting working proxy range...
+2025-06-11 23:28:09,544 - proxy_twitter_miner - WARNING - All accounts banned, resetting some...
+2025-06-11 23:28:09,544 - proxy_twitter_miner - ERROR - No working proxy or account available
+2025-06-11 23:28:09,545 - proxy_twitter_miner - INFO - Got 0 tweets. Total: 0
+2025-06-11 23:28:17,204 - proxy_twitter_miner - INFO - Processing query 25/58: #bitcoin -filter:retweets
+2025-06-11 23:28:17,204 - proxy_twitter_miner - WARNING - Resetting working proxy range...
+2025-06-11 23:28:17,204 - proxy_twitter_miner - WARNING - All accounts banned, resetting some...
+2025-06-11 23:28:17,204 - proxy_twitter_miner - ERROR - No working proxy or account available
+2025-06-11 23:28:17,204 - proxy_twitter_miner - INFO - Got 0 tweets. Total: 0
+2025-06-11 23:28:24,843 - proxy_twitter_miner - INFO - Processing query 26/58: #ai
+2025-06-11 23:28:24,843 - proxy_twitter_miner - WARNING - Resetting working proxy range...
+2025-06-11 23:28:24,843 - proxy_twitter_miner - WARNING - All accounts banned, resetting some...
+2025-06-11 23:28:24,843 - proxy_twitter_miner - ERROR - No working proxy or account available
+2025-06-11 23:28:24,843 - proxy_twitter_miner - INFO - Got 0 tweets. Total: 0
+2025-06-11 23:28:28,102 - proxy_twitter_miner - INFO - Processing query 27/58: #polkadot
+2025-06-11 23:28:28,102 - proxy_twitter_miner - WARNING - Resetting working proxy range...
+2025-06-11 23:28:28,102 - proxy_twitter_miner - WARNING - All accounts banned, resetting some...
+2025-06-11 23:28:28,102 - proxy_twitter_miner - ERROR - No working proxy or account available
+2025-06-11 23:28:28,102 - proxy_twitter_miner - INFO - Got 0 tweets. Total: 0
+2025-06-11 23:28:32,325 - proxy_twitter_miner - INFO - Processing query 28/58: cryptocurrency
+2025-06-11 23:28:32,325 - proxy_twitter_miner - WARNING - Resetting working proxy range...
+2025-06-11 23:28:32,325 - proxy_twitter_miner - WARNING - All accounts banned, resetting some...
+2025-06-11 23:28:32,325 - proxy_twitter_miner - ERROR - No working proxy or account available
+2025-06-11 23:28:32,325 - proxy_twitter_miner - INFO - Got 0 tweets. Total: 0
