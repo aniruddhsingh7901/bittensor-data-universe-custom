@@ -156,3 +156,6 @@ Thumbs.db
 
 # Keep everything else for complete codebase upload
 # Including .env files, databases, and X_scrapping folder
+# SQLite databases
+*.sqlite
+*.db
