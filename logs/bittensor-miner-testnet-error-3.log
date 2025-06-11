@@ -48,3 +48,303 @@
 2025-06-12T01:42:35:   File "/home/anirudh/data-universe/neurons/miner.py", line 92, in __init__
 2025-06-12T01:42:35:     if self.wallet.hotkey.ss58_address in self.metagraph.hotkeys:
 2025-06-12T01:42:35: KeyFileError: Generic error: Failed to get hotkey: FileNotFound("Keyfile at: /home/anirudh/.bittensor/wallets/default/hotkeys/default does not exist.")
+2025-06-12T01:42:42: Traceback (most recent call last):
+2025-06-12T01:42:42:   File "/usr/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+2025-06-12T01:42:42:     return _run_code(code, main_globals, None,
+2025-06-12T01:42:42:   File "/usr/lib/python3.10/runpy.py", line 86, in _run_code
+2025-06-12T01:42:42:     exec(code, run_globals)
+2025-06-12T01:42:42:   File "/home/anirudh/data-universe/neurons/miner.py", line 800, in <module>
+2025-06-12T01:42:42:     with Miner() as miner:
+2025-06-12T01:42:42:   File "/home/anirudh/data-universe/neurons/miner.py", line 92, in __init__
+2025-06-12T01:42:42:     if self.wallet.hotkey.ss58_address in self.metagraph.hotkeys:
+2025-06-12T01:42:42: KeyFileError: Generic error: Failed to get hotkey: FileNotFound("Keyfile at: /home/anirudh/.bittensor/wallets/default/hotkeys/default does not exist.")
+2025-06-12T01:42:51: Traceback (most recent call last):
+2025-06-12T01:42:51:   File "/usr/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+2025-06-12T01:42:51:     return _run_code(code, main_globals, None,
+2025-06-12T01:42:51:   File "/usr/lib/python3.10/runpy.py", line 86, in _run_code
+2025-06-12T01:42:51:     exec(code, run_globals)
+2025-06-12T01:42:51:   File "/home/anirudh/data-universe/neurons/miner.py", line 800, in <module>
+2025-06-12T01:42:51:     with Miner() as miner:
+2025-06-12T01:42:51:   File "/home/anirudh/data-universe/neurons/miner.py", line 92, in __init__
+2025-06-12T01:42:51:     if self.wallet.hotkey.ss58_address in self.metagraph.hotkeys:
+2025-06-12T01:42:51: KeyFileError: Generic error: Failed to get hotkey: FileNotFound("Keyfile at: /home/anirudh/.bittensor/wallets/default/hotkeys/default does not exist.")
+2025-06-12T01:42:59: Traceback (most recent call last):
+2025-06-12T01:42:59:   File "/usr/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+2025-06-12T01:42:59:     return _run_code(code, main_globals, None,
+2025-06-12T01:42:59:   File "/usr/lib/python3.10/runpy.py", line 86, in _run_code
+2025-06-12T01:42:59:     exec(code, run_globals)
+2025-06-12T01:42:59:   File "/home/anirudh/data-universe/neurons/miner.py", line 800, in <module>
+2025-06-12T01:42:59:     with Miner() as miner:
+2025-06-12T01:42:59:   File "/home/anirudh/data-universe/neurons/miner.py", line 92, in __init__
+2025-06-12T01:42:59:     if self.wallet.hotkey.ss58_address in self.metagraph.hotkeys:
+2025-06-12T01:42:59: KeyFileError: Generic error: Failed to get hotkey: FileNotFound("Keyfile at: /home/anirudh/.bittensor/wallets/default/hotkeys/default does not exist.")
+2025-06-12T01:43:07: Traceback (most recent call last):
+2025-06-12T01:43:07:   File "/usr/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+2025-06-12T01:43:07:     return _run_code(code, main_globals, None,
+2025-06-12T01:43:07:   File "/usr/lib/python3.10/runpy.py", line 86, in _run_code
+2025-06-12T01:43:07:     exec(code, run_globals)
+2025-06-12T01:43:07:   File "/home/anirudh/data-universe/neurons/miner.py", line 800, in <module>
+2025-06-12T01:43:07:     with Miner() as miner:
+2025-06-12T01:43:07:   File "/home/anirudh/data-universe/neurons/miner.py", line 92, in __init__
+2025-06-12T01:43:07:     if self.wallet.hotkey.ss58_address in self.metagraph.hotkeys:
+2025-06-12T01:43:07: KeyFileError: Generic error: Failed to get hotkey: FileNotFound("Keyfile at: /home/anirudh/.bittensor/wallets/default/hotkeys/default does not exist.")
+2025-06-12T01:43:15: Traceback (most recent call last):
+2025-06-12T01:43:15:   File "/usr/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+2025-06-12T01:43:15:     return _run_code(code, main_globals, None,
+2025-06-12T01:43:15:   File "/usr/lib/python3.10/runpy.py", line 86, in _run_code
+2025-06-12T01:43:15:     exec(code, run_globals)
+2025-06-12T01:43:15:   File "/home/anirudh/data-universe/neurons/miner.py", line 800, in <module>
+2025-06-12T01:43:15:     with Miner() as miner:
+2025-06-12T01:43:15:   File "/home/anirudh/data-universe/neurons/miner.py", line 92, in __init__
+2025-06-12T01:43:15:     if self.wallet.hotkey.ss58_address in self.metagraph.hotkeys:
+2025-06-12T01:43:15: KeyFileError: Generic error: Failed to get hotkey: FileNotFound("Keyfile at: /home/anirudh/.bittensor/wallets/default/hotkeys/default does not exist.")
+2025-06-12T01:43:23: Traceback (most recent call last):
+2025-06-12T01:43:23:   File "/usr/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+2025-06-12T01:43:23:     return _run_code(code, main_globals, None,
+2025-06-12T01:43:23:   File "/usr/lib/python3.10/runpy.py", line 86, in _run_code
+2025-06-12T01:43:23:     exec(code, run_globals)
+2025-06-12T01:43:23:   File "/home/anirudh/data-universe/neurons/miner.py", line 800, in <module>
+2025-06-12T01:43:23:     with Miner() as miner:
+2025-06-12T01:43:23:   File "/home/anirudh/data-universe/neurons/miner.py", line 92, in __init__
+2025-06-12T01:43:23:     if self.wallet.hotkey.ss58_address in self.metagraph.hotkeys:
+2025-06-12T01:43:23: KeyFileError: Generic error: Failed to get hotkey: FileNotFound("Keyfile at: /home/anirudh/.bittensor/wallets/default/hotkeys/default does not exist.")
+2025-06-12T01:43:32: Traceback (most recent call last):
+2025-06-12T01:43:32:   File "/usr/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+2025-06-12T01:43:32:     return _run_code(code, main_globals, None,
+2025-06-12T01:43:32:   File "/usr/lib/python3.10/runpy.py", line 86, in _run_code
+2025-06-12T01:43:32:     exec(code, run_globals)
+2025-06-12T01:43:32:   File "/home/anirudh/data-universe/neurons/miner.py", line 800, in <module>
+2025-06-12T01:43:32:     with Miner() as miner:
+2025-06-12T01:43:32:   File "/home/anirudh/data-universe/neurons/miner.py", line 92, in __init__
+2025-06-12T01:43:32:     if self.wallet.hotkey.ss58_address in self.metagraph.hotkeys:
+2025-06-12T01:43:32: KeyFileError: Generic error: Failed to get hotkey: FileNotFound("Keyfile at: /home/anirudh/.bittensor/wallets/default/hotkeys/default does not exist.")
+2025-06-12T01:43:40: Traceback (most recent call last):
+2025-06-12T01:43:40:   File "/usr/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+2025-06-12T01:43:40:     return _run_code(code, main_globals, None,
+2025-06-12T01:43:40:   File "/usr/lib/python3.10/runpy.py", line 86, in _run_code
+2025-06-12T01:43:40:     exec(code, run_globals)
+2025-06-12T01:43:40:   File "/home/anirudh/data-universe/neurons/miner.py", line 800, in <module>
+2025-06-12T01:43:40:     with Miner() as miner:
+2025-06-12T01:43:40:   File "/home/anirudh/data-universe/neurons/miner.py", line 92, in __init__
+2025-06-12T01:43:40:     if self.wallet.hotkey.ss58_address in self.metagraph.hotkeys:
+2025-06-12T01:43:40: KeyFileError: Generic error: Failed to get hotkey: FileNotFound("Keyfile at: /home/anirudh/.bittensor/wallets/default/hotkeys/default does not exist.")
+2025-06-12T01:43:50: Traceback (most recent call last):
+2025-06-12T01:43:50:   File "/usr/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+2025-06-12T01:43:50:     return _run_code(code, main_globals, None,
+2025-06-12T01:43:50:   File "/usr/lib/python3.10/runpy.py", line 86, in _run_code
+2025-06-12T01:43:50:     exec(code, run_globals)
+2025-06-12T01:43:50:   File "/home/anirudh/data-universe/neurons/miner.py", line 800, in <module>
+2025-06-12T01:43:50:     with Miner() as miner:
+2025-06-12T01:43:50:   File "/home/anirudh/data-universe/neurons/miner.py", line 92, in __init__
+2025-06-12T01:43:50:     if self.wallet.hotkey.ss58_address in self.metagraph.hotkeys:
+2025-06-12T01:43:50: KeyFileError: Generic error: Failed to get hotkey: FileNotFound("Keyfile at: /home/anirudh/.bittensor/wallets/default/hotkeys/default does not exist.")
+2025-06-12T01:43:58: Traceback (most recent call last):
+2025-06-12T01:43:58:   File "/usr/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+2025-06-12T01:43:58:     return _run_code(code, main_globals, None,
+2025-06-12T01:43:58:   File "/usr/lib/python3.10/runpy.py", line 86, in _run_code
+2025-06-12T01:43:58:     exec(code, run_globals)
+2025-06-12T01:43:58:   File "/home/anirudh/data-universe/neurons/miner.py", line 800, in <module>
+2025-06-12T01:43:58:     with Miner() as miner:
+2025-06-12T01:43:58:   File "/home/anirudh/data-universe/neurons/miner.py", line 92, in __init__
+2025-06-12T01:43:58:     if self.wallet.hotkey.ss58_address in self.metagraph.hotkeys:
+2025-06-12T01:43:58: KeyFileError: Generic error: Failed to get hotkey: FileNotFound("Keyfile at: /home/anirudh/.bittensor/wallets/default/hotkeys/default does not exist.")
+2025-06-12T01:44:06: Traceback (most recent call last):
+2025-06-12T01:44:06:   File "/usr/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+2025-06-12T01:44:06:     return _run_code(code, main_globals, None,
+2025-06-12T01:44:06:   File "/usr/lib/python3.10/runpy.py", line 86, in _run_code
+2025-06-12T01:44:06:     exec(code, run_globals)
+2025-06-12T01:44:06:   File "/home/anirudh/data-universe/neurons/miner.py", line 800, in <module>
+2025-06-12T01:44:06:     with Miner() as miner:
+2025-06-12T01:44:06:   File "/home/anirudh/data-universe/neurons/miner.py", line 92, in __init__
+2025-06-12T01:44:06:     if self.wallet.hotkey.ss58_address in self.metagraph.hotkeys:
+2025-06-12T01:44:06: KeyFileError: Generic error: Failed to get hotkey: FileNotFound("Keyfile at: /home/anirudh/.bittensor/wallets/default/hotkeys/default does not exist.")
+2025-06-12T01:44:14: Traceback (most recent call last):
+2025-06-12T01:44:14:   File "/usr/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+2025-06-12T01:44:14:     return _run_code(code, main_globals, None,
+2025-06-12T01:44:14:   File "/usr/lib/python3.10/runpy.py", line 86, in _run_code
+2025-06-12T01:44:14:     exec(code, run_globals)
+2025-06-12T01:44:14:   File "/home/anirudh/data-universe/neurons/miner.py", line 800, in <module>
+2025-06-12T01:44:14:     with Miner() as miner:
+2025-06-12T01:44:14:   File "/home/anirudh/data-universe/neurons/miner.py", line 92, in __init__
+2025-06-12T01:44:14:     if self.wallet.hotkey.ss58_address in self.metagraph.hotkeys:
+2025-06-12T01:44:14: KeyFileError: Generic error: Failed to get hotkey: FileNotFound("Keyfile at: /home/anirudh/.bittensor/wallets/default/hotkeys/default does not exist.")
+2025-06-12T01:44:22: Traceback (most recent call last):
+2025-06-12T01:44:22:   File "/usr/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+2025-06-12T01:44:22:     return _run_code(code, main_globals, None,
+2025-06-12T01:44:22:   File "/usr/lib/python3.10/runpy.py", line 86, in _run_code
+2025-06-12T01:44:22:     exec(code, run_globals)
+2025-06-12T01:44:22:   File "/home/anirudh/data-universe/neurons/miner.py", line 800, in <module>
+2025-06-12T01:44:22:     with Miner() as miner:
+2025-06-12T01:44:22:   File "/home/anirudh/data-universe/neurons/miner.py", line 92, in __init__
+2025-06-12T01:44:22:     if self.wallet.hotkey.ss58_address in self.metagraph.hotkeys:
+2025-06-12T01:44:22: KeyFileError: Generic error: Failed to get hotkey: FileNotFound("Keyfile at: /home/anirudh/.bittensor/wallets/default/hotkeys/default does not exist.")
+2025-06-12T01:44:31: Traceback (most recent call last):
+2025-06-12T01:44:31:   File "/usr/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+2025-06-12T01:44:31:     return _run_code(code, main_globals, None,
+2025-06-12T01:44:31:   File "/usr/lib/python3.10/runpy.py", line 86, in _run_code
+2025-06-12T01:44:31:     exec(code, run_globals)
+2025-06-12T01:44:31:   File "/home/anirudh/data-universe/neurons/miner.py", line 800, in <module>
+2025-06-12T01:44:31:     with Miner() as miner:
+2025-06-12T01:44:31:   File "/home/anirudh/data-universe/neurons/miner.py", line 92, in __init__
+2025-06-12T01:44:31:     if self.wallet.hotkey.ss58_address in self.metagraph.hotkeys:
+2025-06-12T01:44:31: KeyFileError: Generic error: Failed to get hotkey: FileNotFound("Keyfile at: /home/anirudh/.bittensor/wallets/default/hotkeys/default does not exist.")
+2025-06-12T01:44:39: Traceback (most recent call last):
+2025-06-12T01:44:39:   File "/usr/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+2025-06-12T01:44:39:     return _run_code(code, main_globals, None,
+2025-06-12T01:44:39:   File "/usr/lib/python3.10/runpy.py", line 86, in _run_code
+2025-06-12T01:44:39:     exec(code, run_globals)
+2025-06-12T01:44:39:   File "/home/anirudh/data-universe/neurons/miner.py", line 800, in <module>
+2025-06-12T01:44:39:     with Miner() as miner:
+2025-06-12T01:44:39:   File "/home/anirudh/data-universe/neurons/miner.py", line 92, in __init__
+2025-06-12T01:44:39:     if self.wallet.hotkey.ss58_address in self.metagraph.hotkeys:
+2025-06-12T01:44:39: KeyFileError: Generic error: Failed to get hotkey: FileNotFound("Keyfile at: /home/anirudh/.bittensor/wallets/default/hotkeys/default does not exist.")
+2025-06-12T01:44:47: Traceback (most recent call last):
+2025-06-12T01:44:47:   File "/usr/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+2025-06-12T01:44:47:     return _run_code(code, main_globals, None,
+2025-06-12T01:44:47:   File "/usr/lib/python3.10/runpy.py", line 86, in _run_code
+2025-06-12T01:44:47:     exec(code, run_globals)
+2025-06-12T01:44:47:   File "/home/anirudh/data-universe/neurons/miner.py", line 800, in <module>
+2025-06-12T01:44:47:     with Miner() as miner:
+2025-06-12T01:44:47:   File "/home/anirudh/data-universe/neurons/miner.py", line 92, in __init__
+2025-06-12T01:44:47:     if self.wallet.hotkey.ss58_address in self.metagraph.hotkeys:
+2025-06-12T01:44:47: KeyFileError: Generic error: Failed to get hotkey: FileNotFound("Keyfile at: /home/anirudh/.bittensor/wallets/default/hotkeys/default does not exist.")
+2025-06-12T01:44:55: Traceback (most recent call last):
+2025-06-12T01:44:55:   File "/usr/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+2025-06-12T01:44:55:     return _run_code(code, main_globals, None,
+2025-06-12T01:44:55:   File "/usr/lib/python3.10/runpy.py", line 86, in _run_code
+2025-06-12T01:44:55:     exec(code, run_globals)
+2025-06-12T01:44:55:   File "/home/anirudh/data-universe/neurons/miner.py", line 800, in <module>
+2025-06-12T01:44:55:     with Miner() as miner:
+2025-06-12T01:44:55:   File "/home/anirudh/data-universe/neurons/miner.py", line 92, in __init__
+2025-06-12T01:44:55:     if self.wallet.hotkey.ss58_address in self.metagraph.hotkeys:
+2025-06-12T01:44:55: KeyFileError: Generic error: Failed to get hotkey: FileNotFound("Keyfile at: /home/anirudh/.bittensor/wallets/default/hotkeys/default does not exist.")
+2025-06-12T01:45:03: Traceback (most recent call last):
+2025-06-12T01:45:03:   File "/usr/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+2025-06-12T01:45:03:     return _run_code(code, main_globals, None,
+2025-06-12T01:45:03:   File "/usr/lib/python3.10/runpy.py", line 86, in _run_code
+2025-06-12T01:45:03:     exec(code, run_globals)
+2025-06-12T01:45:03:   File "/home/anirudh/data-universe/neurons/miner.py", line 800, in <module>
+2025-06-12T01:45:03:     with Miner() as miner:
+2025-06-12T01:45:03:   File "/home/anirudh/data-universe/neurons/miner.py", line 92, in __init__
+2025-06-12T01:45:03:     if self.wallet.hotkey.ss58_address in self.metagraph.hotkeys:
+2025-06-12T01:45:03: KeyFileError: Generic error: Failed to get hotkey: FileNotFound("Keyfile at: /home/anirudh/.bittensor/wallets/default/hotkeys/default does not exist.")
+2025-06-12T01:45:11: Traceback (most recent call last):
+2025-06-12T01:45:11:   File "/usr/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+2025-06-12T01:45:11:     return _run_code(code, main_globals, None,
+2025-06-12T01:45:11:   File "/usr/lib/python3.10/runpy.py", line 86, in _run_code
+2025-06-12T01:45:11:     exec(code, run_globals)
+2025-06-12T01:45:11:   File "/home/anirudh/data-universe/neurons/miner.py", line 800, in <module>
+2025-06-12T01:45:11:     with Miner() as miner:
+2025-06-12T01:45:11:   File "/home/anirudh/data-universe/neurons/miner.py", line 92, in __init__
+2025-06-12T01:45:11:     if self.wallet.hotkey.ss58_address in self.metagraph.hotkeys:
+2025-06-12T01:45:11: KeyFileError: Generic error: Failed to get hotkey: FileNotFound("Keyfile at: /home/anirudh/.bittensor/wallets/default/hotkeys/default does not exist.")
+2025-06-12T01:45:20: Traceback (most recent call last):
+2025-06-12T01:45:20:   File "/usr/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+2025-06-12T01:45:20:     return _run_code(code, main_globals, None,
+2025-06-12T01:45:20:   File "/usr/lib/python3.10/runpy.py", line 86, in _run_code
+2025-06-12T01:45:20:     exec(code, run_globals)
+2025-06-12T01:45:20:   File "/home/anirudh/data-universe/neurons/miner.py", line 800, in <module>
+2025-06-12T01:45:20:     with Miner() as miner:
+2025-06-12T01:45:20:   File "/home/anirudh/data-universe/neurons/miner.py", line 92, in __init__
+2025-06-12T01:45:20:     if self.wallet.hotkey.ss58_address in self.metagraph.hotkeys:
+2025-06-12T01:45:20: KeyFileError: Generic error: Failed to get hotkey: FileNotFound("Keyfile at: /home/anirudh/.bittensor/wallets/default/hotkeys/default does not exist.")
+2025-06-12T01:45:30: Traceback (most recent call last):
+2025-06-12T01:45:30:   File "/usr/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+2025-06-12T01:45:30:     return _run_code(code, main_globals, None,
+2025-06-12T01:45:30:   File "/usr/lib/python3.10/runpy.py", line 86, in _run_code
+2025-06-12T01:45:30:     exec(code, run_globals)
+2025-06-12T01:45:30:   File "/home/anirudh/data-universe/neurons/miner.py", line 800, in <module>
+2025-06-12T01:45:30:     with Miner() as miner:
+2025-06-12T01:45:30:   File "/home/anirudh/data-universe/neurons/miner.py", line 92, in __init__
+2025-06-12T01:45:30:     if self.wallet.hotkey.ss58_address in self.metagraph.hotkeys:
+2025-06-12T01:45:30: KeyFileError: Generic error: Failed to get hotkey: FileNotFound("Keyfile at: /home/anirudh/.bittensor/wallets/default/hotkeys/default does not exist.")
+2025-06-12T01:45:38: Traceback (most recent call last):
+2025-06-12T01:45:38:   File "/usr/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+2025-06-12T01:45:38:     return _run_code(code, main_globals, None,
+2025-06-12T01:45:38:   File "/usr/lib/python3.10/runpy.py", line 86, in _run_code
+2025-06-12T01:45:38:     exec(code, run_globals)
+2025-06-12T01:45:38:   File "/home/anirudh/data-universe/neurons/miner.py", line 800, in <module>
+2025-06-12T01:45:38:     with Miner() as miner:
+2025-06-12T01:45:38:   File "/home/anirudh/data-universe/neurons/miner.py", line 92, in __init__
+2025-06-12T01:45:38:     if self.wallet.hotkey.ss58_address in self.metagraph.hotkeys:
+2025-06-12T01:45:38: KeyFileError: Generic error: Failed to get hotkey: FileNotFound("Keyfile at: /home/anirudh/.bittensor/wallets/default/hotkeys/default does not exist.")
+2025-06-12T01:45:48: Traceback (most recent call last):
+2025-06-12T01:45:48:   File "/usr/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+2025-06-12T01:45:48:     return _run_code(code, main_globals, None,
+2025-06-12T01:45:48:   File "/usr/lib/python3.10/runpy.py", line 86, in _run_code
+2025-06-12T01:45:48:     exec(code, run_globals)
+2025-06-12T01:45:48:   File "/home/anirudh/data-universe/neurons/miner.py", line 800, in <module>
+2025-06-12T01:45:48:     with Miner() as miner:
+2025-06-12T01:45:48:   File "/home/anirudh/data-universe/neurons/miner.py", line 92, in __init__
+2025-06-12T01:45:48:     if self.wallet.hotkey.ss58_address in self.metagraph.hotkeys:
+2025-06-12T01:45:48: KeyFileError: Generic error: Failed to get hotkey: FileNotFound("Keyfile at: /home/anirudh/.bittensor/wallets/default/hotkeys/default does not exist.")
+2025-06-12T01:45:56: Traceback (most recent call last):
+2025-06-12T01:45:56:   File "/usr/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+2025-06-12T01:45:56:     return _run_code(code, main_globals, None,
+2025-06-12T01:45:56:   File "/usr/lib/python3.10/runpy.py", line 86, in _run_code
+2025-06-12T01:45:56:     exec(code, run_globals)
+2025-06-12T01:45:56:   File "/home/anirudh/data-universe/neurons/miner.py", line 800, in <module>
+2025-06-12T01:45:56:     with Miner() as miner:
+2025-06-12T01:45:56:   File "/home/anirudh/data-universe/neurons/miner.py", line 92, in __init__
+2025-06-12T01:45:56:     if self.wallet.hotkey.ss58_address in self.metagraph.hotkeys:
+2025-06-12T01:45:56: KeyFileError: Generic error: Failed to get hotkey: FileNotFound("Keyfile at: /home/anirudh/.bittensor/wallets/default/hotkeys/default does not exist.")
+2025-06-12T01:46:04: Traceback (most recent call last):
+2025-06-12T01:46:04:   File "/usr/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+2025-06-12T01:46:04:     return _run_code(code, main_globals, None,
+2025-06-12T01:46:04:   File "/usr/lib/python3.10/runpy.py", line 86, in _run_code
+2025-06-12T01:46:04:     exec(code, run_globals)
+2025-06-12T01:46:04:   File "/home/anirudh/data-universe/neurons/miner.py", line 800, in <module>
+2025-06-12T01:46:04:     with Miner() as miner:
+2025-06-12T01:46:04:   File "/home/anirudh/data-universe/neurons/miner.py", line 92, in __init__
+2025-06-12T01:46:04:     if self.wallet.hotkey.ss58_address in self.metagraph.hotkeys:
+2025-06-12T01:46:04: KeyFileError: Generic error: Failed to get hotkey: FileNotFound("Keyfile at: /home/anirudh/.bittensor/wallets/default/hotkeys/default does not exist.")
+2025-06-12T01:46:16: Traceback (most recent call last):
+2025-06-12T01:46:16:   File "/usr/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+2025-06-12T01:46:16:     return _run_code(code, main_globals, None,
+2025-06-12T01:46:16:   File "/usr/lib/python3.10/runpy.py", line 86, in _run_code
+2025-06-12T01:46:16:     exec(code, run_globals)
+2025-06-12T01:46:16:   File "/home/anirudh/data-universe/neurons/miner.py", line 800, in <module>
+2025-06-12T01:46:16:     with Miner() as miner:
+2025-06-12T01:46:16:   File "/home/anirudh/data-universe/neurons/miner.py", line 92, in __init__
+2025-06-12T01:46:16:     if self.wallet.hotkey.ss58_address in self.metagraph.hotkeys:
+2025-06-12T01:46:16: KeyFileError: Generic error: Failed to get hotkey: FileNotFound("Keyfile at: /home/anirudh/.bittensor/wallets/default/hotkeys/default does not exist.")
+2025-06-12T01:46:25: Traceback (most recent call last):
+2025-06-12T01:46:25:   File "/usr/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+2025-06-12T01:46:25:     return _run_code(code, main_globals, None,
+2025-06-12T01:46:25:   File "/usr/lib/python3.10/runpy.py", line 86, in _run_code
+2025-06-12T01:46:25:     exec(code, run_globals)
+2025-06-12T01:46:25:   File "/home/anirudh/data-universe/neurons/miner.py", line 800, in <module>
+2025-06-12T01:46:25:     with Miner() as miner:
+2025-06-12T01:46:25:   File "/home/anirudh/data-universe/neurons/miner.py", line 92, in __init__
+2025-06-12T01:46:25:     if self.wallet.hotkey.ss58_address in self.metagraph.hotkeys:
+2025-06-12T01:46:25: KeyFileError: Generic error: Failed to get hotkey: FileNotFound("Keyfile at: /home/anirudh/.bittensor/wallets/default/hotkeys/default does not exist.")
+2025-06-12T01:46:33: Traceback (most recent call last):
+2025-06-12T01:46:33:   File "/usr/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+2025-06-12T01:46:33:     return _run_code(code, main_globals, None,
+2025-06-12T01:46:33:   File "/usr/lib/python3.10/runpy.py", line 86, in _run_code
+2025-06-12T01:46:33:     exec(code, run_globals)
+2025-06-12T01:46:33:   File "/home/anirudh/data-universe/neurons/miner.py", line 800, in <module>
+2025-06-12T01:46:33:     with Miner() as miner:
+2025-06-12T01:46:33:   File "/home/anirudh/data-universe/neurons/miner.py", line 92, in __init__
+2025-06-12T01:46:33:     if self.wallet.hotkey.ss58_address in self.metagraph.hotkeys:
+2025-06-12T01:46:33: KeyFileError: Generic error: Failed to get hotkey: FileNotFound("Keyfile at: /home/anirudh/.bittensor/wallets/default/hotkeys/default does not exist.")
+2025-06-12T01:46:41: Traceback (most recent call last):
+2025-06-12T01:46:41:   File "/usr/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+2025-06-12T01:46:41:     return _run_code(code, main_globals, None,
+2025-06-12T01:46:41:   File "/usr/lib/python3.10/runpy.py", line 86, in _run_code
+2025-06-12T01:46:41:     exec(code, run_globals)
+2025-06-12T01:46:41:   File "/home/anirudh/data-universe/neurons/miner.py", line 800, in <module>
+2025-06-12T01:46:41:     with Miner() as miner:
+2025-06-12T01:46:41:   File "/home/anirudh/data-universe/neurons/miner.py", line 92, in __init__
+2025-06-12T01:46:41:     if self.wallet.hotkey.ss58_address in self.metagraph.hotkeys:
+2025-06-12T01:46:41: KeyFileError: Generic error: Failed to get hotkey: FileNotFound("Keyfile at: /home/anirudh/.bittensor/wallets/default/hotkeys/default does not exist.")
+2025-06-12T01:46:54: Traceback (most recent call last):
+2025-06-12T01:46:54:   File "/usr/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+2025-06-12T01:46:54:     return _run_code(code, main_globals, None,
+2025-06-12T01:46:54:   File "/usr/lib/python3.10/runpy.py", line 86, in _run_code
+2025-06-12T01:46:54:     exec(code, run_globals)
+2025-06-12T01:46:54:   File "/home/anirudh/data-universe/neurons/miner.py", line 800, in <module>
+2025-06-12T01:46:54:     with Miner() as miner:
+2025-06-12T01:46:54:   File "/home/anirudh/data-universe/neurons/miner.py", line 92, in __init__
+2025-06-12T01:46:54:     if self.wallet.hotkey.ss58_address in self.metagraph.hotkeys:
+2025-06-12T01:46:54: KeyFileError: Generic error: Failed to get hotkey: FileNotFound("Keyfile at: /home/anirudh/.bittensor/wallets/default/hotkeys/default does not exist.")
