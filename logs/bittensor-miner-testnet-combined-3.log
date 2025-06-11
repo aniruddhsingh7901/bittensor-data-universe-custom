@@ -2569,3 +2569,270 @@
 2025-06-12T01:47:53: no_version_checking: false
 2025-06-12T01:47:53: [34m2025-06-12 01:47:53.018[39m | [1m[37m      INFO      [39m[49m[0m | bittensor:miner.py:80 | Wallet: Wallet (Name: 'default', Hotkey: 'default', Path: '~/.bittensor/wallets/').
 2025-06-12T01:47:53: [34m2025-06-12 01:47:53.018[39m | [1m[34m     DEBUG      [39m[49m[0m | bittensor:subtensor.py:130 | Connecting to network: [34mtest[0m, chain_endpoint: [34mwss://test.finney.opentensor.ai:443[0m> ...
+2025-06-12T01:47:57: [34m2025-06-12 01:47:57.948[39m | [1m[37m      INFO      [39m[49m[0m | bittensor:miner.py:84 | Subtensor: Network: test, Chain: wss://test.finney.opentensor.ai:443.
+2025-06-12T01:47:59: [34m2025-06-12 01:47:59.867[39m | [1m[37m      INFO      [39m[49m[0m | bittensor:miner.py:88 | Metagraph: metagraph(netuid:13, n:96, block:4734559, network:test).
+2025-06-12T01:47:59: Traceback (most recent call last):
+2025-06-12T01:47:59:   File "/usr/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+2025-06-12T01:47:59:     return _run_code(code, main_globals, None,
+2025-06-12T01:47:59:   File "/usr/lib/python3.10/runpy.py", line 86, in _run_code
+2025-06-12T01:47:59:     exec(code, run_globals)
+2025-06-12T01:47:59:   File "/home/anirudh/data-universe/neurons/miner.py", line 800, in <module>
+2025-06-12T01:47:59:     with Miner() as miner:
+2025-06-12T01:47:59:   File "/home/anirudh/data-universe/neurons/miner.py", line 92, in __init__
+2025-06-12T01:47:59:     if self.wallet.hotkey.ss58_address in self.metagraph.hotkeys:
+2025-06-12T01:47:59: KeyFileError: Generic error: Failed to get hotkey: FileNotFound("Keyfile at: /home/anirudh/.bittensor/wallets/default/hotkeys/default does not exist.")
+2025-06-12T01:48:02: [34m2025-06-12 01:48:02.117[39m | [1m[37m      INFO      [39m[49m[0m | bittensor:loggingmachine.py:422 | Debug enabled.
+2025-06-12T01:48:04: [34m2025-06-12 01:48:04.100[39m | [1m[37m      INFO      [39m[49m[0m | bittensor:loggingmachine.py:387 | Enabling trace.
+2025-06-12T01:48:04: [34m2025-06-12 01:48:04.101[39m | [1m[37m      INFO      [39m[49m[0m | bittensor:loggingmachine.py:394 | Trace enabled.
+2025-06-12T01:48:04: [34m2025-06-12 01:48:04.993[39m | [1m[37m      INFO      [39m[49m[0m | bittensor:loggingmachine.py:373 | Enabling info logging.
+2025-06-12T01:48:04: [34m2025-06-12 01:48:04.994[39m | [1m[37m      INFO      [39m[49m[0m | bittensor:loggingmachine.py:382 | Info enabled.
+2025-06-12T01:48:04: [34m2025-06-12 01:48:04.995[39m | [1m[37m      INFO      [39m[49m[0m | bittensor:loggingmachine.py:409 | Enabling debug.
+2025-06-12T01:48:04: [34m2025-06-12 01:48:04.997[39m | [1m[37m      INFO      [39m[49m[0m | bittensor:loggingmachine.py:422 | Debug enabled.
+2025-06-12T01:48:05: [34m2025-06-12 01:48:05.015[39m | [1m[37m      INFO      [39m[49m[0m | bittensor:loggingmachine.py:409 | Enabling debug.
+2025-06-12T01:48:05: [34m2025-06-12 01:48:05.016[39m | [1m[37m      INFO      [39m[49m[0m | bittensor:loggingmachine.py:422 | Debug enabled.
+2025-06-12T01:48:05: [34m2025-06-12 01:48:05.025[39m | [1m[37m      INFO      [39m[49m[0m | bittensor:miner.py:67 | wallet:
+2025-06-12T01:48:05:   name: default
+2025-06-12T01:48:05:   hotkey: default
+2025-06-12T01:48:05:   path: ~/.bittensor/wallets/
+2025-06-12T01:48:05: subtensor:
+2025-06-12T01:48:05:   network: test
+2025-06-12T01:48:05:   chain_endpoint: wss://entrypoint-finney.opentensor.ai:443
+2025-06-12T01:48:05:   _mock: false
+2025-06-12T01:48:05: logging:
+2025-06-12T01:48:05:   debug: true
+2025-06-12T01:48:05:   trace: false
+2025-06-12T01:48:05:   info: false
+2025-06-12T01:48:05:   record_log: false
+2025-06-12T01:48:05:   logging_dir: ~/.bittensor/miners
+2025-06-12T01:48:05: axon:
+2025-06-12T01:48:05:   port: 8091
+2025-06-12T01:48:05:   ip: '[::]'
+2025-06-12T01:48:05:   external_port: null
+2025-06-12T01:48:05:   external_ip: null
+2025-06-12T01:48:05:   max_workers: 10
+2025-06-12T01:48:05: netuid: 13
+2025-06-12T01:48:05: neuron:
+2025-06-12T01:48:05:   epoch_length: 100
+2025-06-12T01:48:05:   events_retention_size: 2 GB
+2025-06-12T01:48:05:   dont_save_events: false
+2025-06-12T01:48:05:   database_name: SqliteMinerStorage.sqlite
+2025-06-12T01:48:05:   max_database_size_gb_hint: 250
+2025-06-12T01:48:05:   scraping_config_file: /home/anirudh/data-universe/scraping/config/scraping_config.json
+2025-06-12T01:48:05:   full_path: /home/anirudh/.bittensor/miners/default/default/netuid13/None
+2025-06-12T01:48:05: vpermit_rao_limit: 10000
+2025-06-12T01:48:05: s3_auth_url: https://sn13-data.api.macrocosmos.ai
+2025-06-12T01:48:05: huggingface: false
+2025-06-12T01:48:05: gravity: false
+2025-06-12T01:48:05: encoding_key_json_file: /home/anirudh/data-universe/huggingface_utils/encoding_key.json
+2025-06-12T01:48:05: private_encoding_key_json_file: /home/anirudh/data-universe/huggingface_utils/private_encoding_key.json
+2025-06-12T01:48:05: miner_upload_state_file: /home/anirudh/data-universe/huggingface_utils/state_file.json
+2025-06-12T01:48:05: offline: false
+2025-06-12T01:48:05: config: false
+2025-06-12T01:48:05: strict: false
+2025-06-12T01:48:05: no_version_checking: false
+2025-06-12T01:48:05: [34m2025-06-12 01:48:05.025[39m | [1m[37m      INFO      [39m[49m[0m | bittensor:miner.py:80 | Wallet: Wallet (Name: 'default', Hotkey: 'default', Path: '~/.bittensor/wallets/').
+2025-06-12T01:48:05: [34m2025-06-12 01:48:05.026[39m | [1m[34m     DEBUG      [39m[49m[0m | bittensor:subtensor.py:130 | Connecting to network: [34mtest[0m, chain_endpoint: [34mwss://test.finney.opentensor.ai:443[0m> ...
+2025-06-12T01:48:09: [34m2025-06-12 01:48:09.878[39m | [1m[37m      INFO      [39m[49m[0m | bittensor:miner.py:84 | Subtensor: Network: test, Chain: wss://test.finney.opentensor.ai:443.
+2025-06-12T01:48:11: [34m2025-06-12 01:48:11.773[39m | [1m[37m      INFO      [39m[49m[0m | bittensor:miner.py:88 | Metagraph: metagraph(netuid:13, n:96, block:4734560, network:test).
+2025-06-12T01:48:11: Traceback (most recent call last):
+2025-06-12T01:48:11:   File "/usr/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+2025-06-12T01:48:11:     return _run_code(code, main_globals, None,
+2025-06-12T01:48:11:   File "/usr/lib/python3.10/runpy.py", line 86, in _run_code
+2025-06-12T01:48:11:     exec(code, run_globals)
+2025-06-12T01:48:11:   File "/home/anirudh/data-universe/neurons/miner.py", line 800, in <module>
+2025-06-12T01:48:11:     with Miner() as miner:
+2025-06-12T01:48:11:   File "/home/anirudh/data-universe/neurons/miner.py", line 92, in __init__
+2025-06-12T01:48:11:     if self.wallet.hotkey.ss58_address in self.metagraph.hotkeys:
+2025-06-12T01:48:11: KeyFileError: Generic error: Failed to get hotkey: FileNotFound("Keyfile at: /home/anirudh/.bittensor/wallets/default/hotkeys/default does not exist.")
+2025-06-12T01:48:13: [34m2025-06-12 01:48:13.948[39m | [1m[37m      INFO      [39m[49m[0m | bittensor:loggingmachine.py:422 | Debug enabled.
+2025-06-12T01:48:15: [34m2025-06-12 01:48:15.969[39m | [1m[37m      INFO      [39m[49m[0m | bittensor:loggingmachine.py:387 | Enabling trace.
+2025-06-12T01:48:15: [34m2025-06-12 01:48:15.969[39m | [1m[37m      INFO      [39m[49m[0m | bittensor:loggingmachine.py:394 | Trace enabled.
+2025-06-12T01:48:16: [34m2025-06-12 01:48:16.733[39m | [1m[37m      INFO      [39m[49m[0m | bittensor:loggingmachine.py:373 | Enabling info logging.
+2025-06-12T01:48:16: [34m2025-06-12 01:48:16.734[39m | [1m[37m      INFO      [39m[49m[0m | bittensor:loggingmachine.py:382 | Info enabled.
+2025-06-12T01:48:16: [34m2025-06-12 01:48:16.735[39m | [1m[37m      INFO      [39m[49m[0m | bittensor:loggingmachine.py:409 | Enabling debug.
+2025-06-12T01:48:16: [34m2025-06-12 01:48:16.736[39m | [1m[37m      INFO      [39m[49m[0m | bittensor:loggingmachine.py:422 | Debug enabled.
+2025-06-12T01:48:16: [34m2025-06-12 01:48:16.751[39m | [1m[37m      INFO      [39m[49m[0m | bittensor:loggingmachine.py:409 | Enabling debug.
+2025-06-12T01:48:16: [34m2025-06-12 01:48:16.752[39m | [1m[37m      INFO      [39m[49m[0m | bittensor:loggingmachine.py:422 | Debug enabled.
+2025-06-12T01:48:16: [34m2025-06-12 01:48:16.759[39m | [1m[37m      INFO      [39m[49m[0m | bittensor:miner.py:67 | wallet:
+2025-06-12T01:48:16:   name: default
+2025-06-12T01:48:16:   hotkey: default
+2025-06-12T01:48:16:   path: ~/.bittensor/wallets/
+2025-06-12T01:48:16: subtensor:
+2025-06-12T01:48:16:   network: test
+2025-06-12T01:48:16:   chain_endpoint: wss://entrypoint-finney.opentensor.ai:443
+2025-06-12T01:48:16:   _mock: false
+2025-06-12T01:48:16: logging:
+2025-06-12T01:48:16:   debug: true
+2025-06-12T01:48:16:   trace: false
+2025-06-12T01:48:16:   info: false
+2025-06-12T01:48:16:   record_log: false
+2025-06-12T01:48:16:   logging_dir: ~/.bittensor/miners
+2025-06-12T01:48:16: axon:
+2025-06-12T01:48:16:   port: 8091
+2025-06-12T01:48:16:   ip: '[::]'
+2025-06-12T01:48:16:   external_port: null
+2025-06-12T01:48:16:   external_ip: null
+2025-06-12T01:48:16:   max_workers: 10
+2025-06-12T01:48:16: netuid: 13
+2025-06-12T01:48:16: neuron:
+2025-06-12T01:48:16:   epoch_length: 100
+2025-06-12T01:48:16:   events_retention_size: 2 GB
+2025-06-12T01:48:16:   dont_save_events: false
+2025-06-12T01:48:16:   database_name: SqliteMinerStorage.sqlite
+2025-06-12T01:48:16:   max_database_size_gb_hint: 250
+2025-06-12T01:48:16:   scraping_config_file: /home/anirudh/data-universe/scraping/config/scraping_config.json
+2025-06-12T01:48:16:   full_path: /home/anirudh/.bittensor/miners/default/default/netuid13/None
+2025-06-12T01:48:16: vpermit_rao_limit: 10000
+2025-06-12T01:48:16: s3_auth_url: https://sn13-data.api.macrocosmos.ai
+2025-06-12T01:48:16: huggingface: false
+2025-06-12T01:48:16: gravity: false
+2025-06-12T01:48:16: encoding_key_json_file: /home/anirudh/data-universe/huggingface_utils/encoding_key.json
+2025-06-12T01:48:16: private_encoding_key_json_file: /home/anirudh/data-universe/huggingface_utils/private_encoding_key.json
+2025-06-12T01:48:16: miner_upload_state_file: /home/anirudh/data-universe/huggingface_utils/state_file.json
+2025-06-12T01:48:16: offline: false
+2025-06-12T01:48:16: config: false
+2025-06-12T01:48:16: strict: false
+2025-06-12T01:48:16: no_version_checking: false
+2025-06-12T01:48:16: [34m2025-06-12 01:48:16.759[39m | [1m[37m      INFO      [39m[49m[0m | bittensor:miner.py:80 | Wallet: Wallet (Name: 'default', Hotkey: 'default', Path: '~/.bittensor/wallets/').
+2025-06-12T01:48:16: [34m2025-06-12 01:48:16.759[39m | [1m[34m     DEBUG      [39m[49m[0m | bittensor:subtensor.py:130 | Connecting to network: [34mtest[0m, chain_endpoint: [34mwss://test.finney.opentensor.ai:443[0m> ...
+2025-06-12T01:48:21: [34m2025-06-12 01:48:21.624[39m | [1m[37m      INFO      [39m[49m[0m | bittensor:miner.py:84 | Subtensor: Network: test, Chain: wss://test.finney.opentensor.ai:443.
+2025-06-12T01:48:23: [34m2025-06-12 01:48:23.498[39m | [1m[37m      INFO      [39m[49m[0m | bittensor:miner.py:88 | Metagraph: metagraph(netuid:13, n:96, block:4734561, network:test).
+2025-06-12T01:48:23: Traceback (most recent call last):
+2025-06-12T01:48:23:   File "/usr/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+2025-06-12T01:48:23:     return _run_code(code, main_globals, None,
+2025-06-12T01:48:23:   File "/usr/lib/python3.10/runpy.py", line 86, in _run_code
+2025-06-12T01:48:23:     exec(code, run_globals)
+2025-06-12T01:48:23:   File "/home/anirudh/data-universe/neurons/miner.py", line 800, in <module>
+2025-06-12T01:48:23:     with Miner() as miner:
+2025-06-12T01:48:23:   File "/home/anirudh/data-universe/neurons/miner.py", line 92, in __init__
+2025-06-12T01:48:23:     if self.wallet.hotkey.ss58_address in self.metagraph.hotkeys:
+2025-06-12T01:48:23: KeyFileError: Generic error: Failed to get hotkey: FileNotFound("Keyfile at: /home/anirudh/.bittensor/wallets/default/hotkeys/default does not exist.")
+2025-06-12T01:48:25: [34m2025-06-12 01:48:25.151[39m | [1m[37m      INFO      [39m[49m[0m | bittensor:loggingmachine.py:422 | Debug enabled.
+2025-06-12T01:48:25: [34m2025-06-12 01:48:25.956[39m | [1m[37m      INFO      [39m[49m[0m | bittensor:loggingmachine.py:387 | Enabling trace.
+2025-06-12T01:48:25: [34m2025-06-12 01:48:25.956[39m | [1m[37m      INFO      [39m[49m[0m | bittensor:loggingmachine.py:394 | Trace enabled.
+2025-06-12T01:48:26: [34m2025-06-12 01:48:26.292[39m | [1m[37m      INFO      [39m[49m[0m | bittensor:loggingmachine.py:373 | Enabling info logging.
+2025-06-12T01:48:26: [34m2025-06-12 01:48:26.292[39m | [1m[37m      INFO      [39m[49m[0m | bittensor:loggingmachine.py:382 | Info enabled.
+2025-06-12T01:48:26: [34m2025-06-12 01:48:26.293[39m | [1m[37m      INFO      [39m[49m[0m | bittensor:loggingmachine.py:409 | Enabling debug.
+2025-06-12T01:48:26: [34m2025-06-12 01:48:26.293[39m | [1m[37m      INFO      [39m[49m[0m | bittensor:loggingmachine.py:422 | Debug enabled.
+2025-06-12T01:48:26: [34m2025-06-12 01:48:26.302[39m | [1m[37m      INFO      [39m[49m[0m | bittensor:loggingmachine.py:409 | Enabling debug.
+2025-06-12T01:48:26: [34m2025-06-12 01:48:26.303[39m | [1m[37m      INFO      [39m[49m[0m | bittensor:loggingmachine.py:422 | Debug enabled.
+2025-06-12T01:48:26: [34m2025-06-12 01:48:26.306[39m | [1m[37m      INFO      [39m[49m[0m | bittensor:miner.py:67 | wallet:
+2025-06-12T01:48:26:   name: default
+2025-06-12T01:48:26:   hotkey: default
+2025-06-12T01:48:26:   path: ~/.bittensor/wallets/
+2025-06-12T01:48:26: subtensor:
+2025-06-12T01:48:26:   network: test
+2025-06-12T01:48:26:   chain_endpoint: wss://entrypoint-finney.opentensor.ai:443
+2025-06-12T01:48:26:   _mock: false
+2025-06-12T01:48:26: logging:
+2025-06-12T01:48:26:   debug: true
+2025-06-12T01:48:26:   trace: false
+2025-06-12T01:48:26:   info: false
+2025-06-12T01:48:26:   record_log: false
+2025-06-12T01:48:26:   logging_dir: ~/.bittensor/miners
+2025-06-12T01:48:26: axon:
+2025-06-12T01:48:26:   port: 8091
+2025-06-12T01:48:26:   ip: '[::]'
+2025-06-12T01:48:26:   external_port: null
+2025-06-12T01:48:26:   external_ip: null
+2025-06-12T01:48:26:   max_workers: 10
+2025-06-12T01:48:26: netuid: 13
+2025-06-12T01:48:26: neuron:
+2025-06-12T01:48:26:   epoch_length: 100
+2025-06-12T01:48:26:   events_retention_size: 2 GB
+2025-06-12T01:48:26:   dont_save_events: false
+2025-06-12T01:48:26:   database_name: SqliteMinerStorage.sqlite
+2025-06-12T01:48:26:   max_database_size_gb_hint: 250
+2025-06-12T01:48:26:   scraping_config_file: /home/anirudh/data-universe/scraping/config/scraping_config.json
+2025-06-12T01:48:26:   full_path: /home/anirudh/.bittensor/miners/default/default/netuid13/None
+2025-06-12T01:48:26: vpermit_rao_limit: 10000
+2025-06-12T01:48:26: s3_auth_url: https://sn13-data.api.macrocosmos.ai
+2025-06-12T01:48:26: huggingface: false
+2025-06-12T01:48:26: gravity: false
+2025-06-12T01:48:26: encoding_key_json_file: /home/anirudh/data-universe/huggingface_utils/encoding_key.json
+2025-06-12T01:48:26: private_encoding_key_json_file: /home/anirudh/data-universe/huggingface_utils/private_encoding_key.json
+2025-06-12T01:48:26: miner_upload_state_file: /home/anirudh/data-universe/huggingface_utils/state_file.json
+2025-06-12T01:48:26: offline: false
+2025-06-12T01:48:26: config: false
+2025-06-12T01:48:26: strict: false
+2025-06-12T01:48:26: no_version_checking: false
+2025-06-12T01:48:26: [34m2025-06-12 01:48:26.306[39m | [1m[37m      INFO      [39m[49m[0m | bittensor:miner.py:80 | Wallet: Wallet (Name: 'default', Hotkey: 'default', Path: '~/.bittensor/wallets/').
+2025-06-12T01:48:26: [34m2025-06-12 01:48:26.306[39m | [1m[34m     DEBUG      [39m[49m[0m | bittensor:subtensor.py:130 | Connecting to network: [34mtest[0m, chain_endpoint: [34mwss://test.finney.opentensor.ai:443[0m> ...
+2025-06-12T01:48:32: [34m2025-06-12 01:48:32.164[39m | [1m[37m      INFO      [39m[49m[0m | bittensor:miner.py:84 | Subtensor: Network: test, Chain: wss://test.finney.opentensor.ai:443.
+2025-06-12T01:48:34: [34m2025-06-12 01:48:34.165[39m | [1m[37m      INFO      [39m[49m[0m | bittensor:miner.py:88 | Metagraph: metagraph(netuid:13, n:96, block:4734562, network:test).
+2025-06-12T01:48:34: Traceback (most recent call last):
+2025-06-12T01:48:34:   File "/usr/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+2025-06-12T01:48:34:     return _run_code(code, main_globals, None,
+2025-06-12T01:48:34:   File "/usr/lib/python3.10/runpy.py", line 86, in _run_code
+2025-06-12T01:48:34:     exec(code, run_globals)
+2025-06-12T01:48:34:   File "/home/anirudh/data-universe/neurons/miner.py", line 800, in <module>
+2025-06-12T01:48:34:     with Miner() as miner:
+2025-06-12T01:48:34:   File "/home/anirudh/data-universe/neurons/miner.py", line 92, in __init__
+2025-06-12T01:48:34:     if self.wallet.hotkey.ss58_address in self.metagraph.hotkeys:
+2025-06-12T01:48:34: KeyFileError: Generic error: Failed to get hotkey: FileNotFound("Keyfile at: /home/anirudh/.bittensor/wallets/default/hotkeys/default does not exist.")
+2025-06-12T01:48:36: [34m2025-06-12 01:48:36.423[39m | [1m[37m      INFO      [39m[49m[0m | bittensor:loggingmachine.py:422 | Debug enabled.
+2025-06-12T01:48:37: [34m2025-06-12 01:48:37.755[39m | [1m[37m      INFO      [39m[49m[0m | bittensor:loggingmachine.py:387 | Enabling trace.
+2025-06-12T01:48:37: [34m2025-06-12 01:48:37.756[39m | [1m[37m      INFO      [39m[49m[0m | bittensor:loggingmachine.py:394 | Trace enabled.
+2025-06-12T01:48:38: [34m2025-06-12 01:48:38.185[39m | [1m[37m      INFO      [39m[49m[0m | bittensor:loggingmachine.py:373 | Enabling info logging.
+2025-06-12T01:48:38: [34m2025-06-12 01:48:38.186[39m | [1m[37m      INFO      [39m[49m[0m | bittensor:loggingmachine.py:382 | Info enabled.
+2025-06-12T01:48:38: [34m2025-06-12 01:48:38.186[39m | [1m[37m      INFO      [39m[49m[0m | bittensor:loggingmachine.py:409 | Enabling debug.
+2025-06-12T01:48:38: [34m2025-06-12 01:48:38.187[39m | [1m[37m      INFO      [39m[49m[0m | bittensor:loggingmachine.py:422 | Debug enabled.
+2025-06-12T01:48:38: [34m2025-06-12 01:48:38.195[39m | [1m[37m      INFO      [39m[49m[0m | bittensor:loggingmachine.py:409 | Enabling debug.
+2025-06-12T01:48:38: [34m2025-06-12 01:48:38.195[39m | [1m[37m      INFO      [39m[49m[0m | bittensor:loggingmachine.py:422 | Debug enabled.
+2025-06-12T01:48:38: [34m2025-06-12 01:48:38.199[39m | [1m[37m      INFO      [39m[49m[0m | bittensor:miner.py:67 | wallet:
+2025-06-12T01:48:38:   name: default
+2025-06-12T01:48:38:   hotkey: default
+2025-06-12T01:48:38:   path: ~/.bittensor/wallets/
+2025-06-12T01:48:38: subtensor:
+2025-06-12T01:48:38:   network: test
+2025-06-12T01:48:38:   chain_endpoint: wss://entrypoint-finney.opentensor.ai:443
+2025-06-12T01:48:38:   _mock: false
+2025-06-12T01:48:38: logging:
+2025-06-12T01:48:38:   debug: true
+2025-06-12T01:48:38:   trace: false
+2025-06-12T01:48:38:   info: false
+2025-06-12T01:48:38:   record_log: false
+2025-06-12T01:48:38:   logging_dir: ~/.bittensor/miners
+2025-06-12T01:48:38: axon:
+2025-06-12T01:48:38:   port: 8091
+2025-06-12T01:48:38:   ip: '[::]'
+2025-06-12T01:48:38:   external_port: null
+2025-06-12T01:48:38:   external_ip: null
+2025-06-12T01:48:38:   max_workers: 10
+2025-06-12T01:48:38: netuid: 13
+2025-06-12T01:48:38: neuron:
+2025-06-12T01:48:38:   epoch_length: 100
+2025-06-12T01:48:38:   events_retention_size: 2 GB
+2025-06-12T01:48:38:   dont_save_events: false
+2025-06-12T01:48:38:   database_name: SqliteMinerStorage.sqlite
+2025-06-12T01:48:38:   max_database_size_gb_hint: 250
+2025-06-12T01:48:38:   scraping_config_file: /home/anirudh/data-universe/scraping/config/scraping_config.json
+2025-06-12T01:48:38:   full_path: /home/anirudh/.bittensor/miners/default/default/netuid13/None
+2025-06-12T01:48:38: vpermit_rao_limit: 10000
+2025-06-12T01:48:38: s3_auth_url: https://sn13-data.api.macrocosmos.ai
+2025-06-12T01:48:38: huggingface: false
+2025-06-12T01:48:38: gravity: false
+2025-06-12T01:48:38: encoding_key_json_file: /home/anirudh/data-universe/huggingface_utils/encoding_key.json
+2025-06-12T01:48:38: private_encoding_key_json_file: /home/anirudh/data-universe/huggingface_utils/private_encoding_key.json
+2025-06-12T01:48:38: miner_upload_state_file: /home/anirudh/data-universe/huggingface_utils/state_file.json
+2025-06-12T01:48:38: offline: false
+2025-06-12T01:48:38: config: false
+2025-06-12T01:48:38: strict: false
+2025-06-12T01:48:38: no_version_checking: false
+2025-06-12T01:48:38: [34m2025-06-12 01:48:38.199[39m | [1m[37m      INFO      [39m[49m[0m | bittensor:miner.py:80 | Wallet: Wallet (Name: 'default', Hotkey: 'default', Path: '~/.bittensor/wallets/').
+2025-06-12T01:48:38: [34m2025-06-12 01:48:38.199[39m | [1m[34m     DEBUG      [39m[49m[0m | bittensor:subtensor.py:130 | Connecting to network: [34mtest[0m, chain_endpoint: [34mwss://test.finney.opentensor.ai:443[0m> ...
+2025-06-12T01:48:42: [34m2025-06-12 01:48:42.950[39m | [1m[37m      INFO      [39m[49m[0m | bittensor:miner.py:84 | Subtensor: Network: test, Chain: wss://test.finney.opentensor.ai:443.
+2025-06-12T01:48:44: [34m2025-06-12 01:48:44.740[39m | [1m[37m      INFO      [39m[49m[0m | bittensor:miner.py:88 | Metagraph: metagraph(netuid:13, n:96, block:4734563, network:test).
+2025-06-12T01:48:44: Traceback (most recent call last):
+2025-06-12T01:48:44:   File "/usr/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+2025-06-12T01:48:44:     return _run_code(code, main_globals, None,
+2025-06-12T01:48:44:   File "/usr/lib/python3.10/runpy.py", line 86, in _run_code
+2025-06-12T01:48:44:     exec(code, run_globals)
+2025-06-12T01:48:44:   File "/home/anirudh/data-universe/neurons/miner.py", line 800, in <module>
+2025-06-12T01:48:44:     with Miner() as miner:
+2025-06-12T01:48:44:   File "/home/anirudh/data-universe/neurons/miner.py", line 92, in __init__
+2025-06-12T01:48:44:     if self.wallet.hotkey.ss58_address in self.metagraph.hotkeys:
+2025-06-12T01:48:44: KeyFileError: Generic error: Failed to get hotkey: FileNotFound("Keyfile at: /home/anirudh/.bittensor/wallets/default/hotkeys/default does not exist.")
+2025-06-12T01:48:46: [34m2025-06-12 01:48:46.886[39m | [1m[37m      INFO      [39m[49m[0m | bittensor:loggingmachine.py:422 | Debug enabled.
+2025-06-12T01:48:48: [34m2025-06-12 01:48:48.849[39m | [1m[37m      INFO      [39m[49m[0m | bittensor:loggingmachine.py:387 | Enabling trace.
+2025-06-12T01:48:48: [34m2025-06-12 01:48:48.849[39m | [1m[37m      INFO      [39m[49m[0m | bittensor:loggingmachine.py:394 | Trace enabled.
